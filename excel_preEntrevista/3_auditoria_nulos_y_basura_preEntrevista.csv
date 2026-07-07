@@ -1,0 +1,662 @@
+﻿id;customer_id;counter;hour_date;circuito;tipo_circuito;series_circuito;formato_circuito;minutos_circuito;orden_ejercicio;ejercicio_limpio;ejercicio_2;ejercicio_3;peso_kg;repeticiones;por_lado;tiempo_iso_seg;rir;color_goma;cantidad_otra_unidad;tipo_otra_unidad;ejercicio_bruto;utilidad
+347;56;9;Por programar;Circuito 1: Activación x 2 series;Activación;2.0;;;5;;;;;;False;;;;[2];mins;5) 2 mins a 12,5;3
+649;149;16;09/09/2024 11:30;Circuito 4: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+671;163;11;28/08/2024 17:30;Circuito 4: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+675;163;15;12/09/2024 9:30;Circuito 4: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+693;132;16;28/08/2024 9:30;Circuito 4: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+790;154;12;20/09/2024 8:00;Circuito 4: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+867;71;12;14/08/2024 7:30;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;[2];mins;5) 2 mins a 14;3
+890;68;8;16/09/2024 20:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;[2];mins;5) 2 mins a 12,5;3
+910;155;12;06/08/2024 8:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;[2];mins;5) 2 mins a 11,5;3
+931;232;6;12/08/2024 19:30;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;[2];mins;5) 2 mins a 12;3
+950;60;8;19/08/2024 17:30;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;[2];mins;5) 2 mins a 12;3
+968;189;10;13/08/2024 18:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;[2];mins;5) 2 mins a 12;3
+1008;182;13;26/09/2024 16:30;Circuito 3: Activación x 3 series;Activación;3.0;;;3;;;;;;False;;;;[1];km;3) 1 km entre 3 series;3
+1012;182;17;10/10/2024 16:30;Circuito 3: Activación x 3 series;Activación;3.0;;;3;;;;;;False;;;;[1,2];km;3) 1,2 km entre 3 series;3
+1507;153;9;13/08/2024 8:00;Circuito 3: 6 mins a 8,5;;;;6;1;;;;;;False;;;;[6];mins;6 mins a 8,5;3
+2141;197;14;01/10/2024 19:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;[75, 75];;;[2];mins;5) 2 mins a 12,5. Serie 2 75” a 14;3
+2158;23;14;16/09/2024 7:30;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;[75, 75];;;[2];mins;5) 2 mins a 14,5. Serie 2 75” a 16;3
+2176;184;14;12/09/2024 16:30;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;[75, 75];;;[2];mins;5) 2 mins a 12,5. Serie 2 75” a 14;3
+2194;65;14;11/09/2024 19:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;[75, 75];;;[2];mins;5) 2 mins a 12,5. Serie 2 75” a 14;3
+2234;134;16;30/08/2024 9:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;[75, 75];;;[2];mins;5) 2 mins a 12,5. Serie 2 75” a 14;3
+2254;193;13;23/08/2024 7:30;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;[75, 75];;;[2];mins;5) 2 mins a 12,5. Serie 2 75” a 14;3
+2272;44;14;10/09/2024 20:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;[75, 75];;;[2];mins;5) 2 mins a 12,5. Serie 2 75” a 14;3
+2289;48;13;23/08/2024 9:00;Circuito 2;;;;;1;;;;;;False;;;;[2, 14, 12, 4];kms, mins, mins, mins;A) 2 kms < 14 mins (12 mins a 10)( 4 mins rest);3
+2289;48;13;23/08/2024 9:00;Circuito 2;;;;;3;;;;;;False;;;;[1, 7, 6];km, mins, mins;C) 1 km < 7 mins (6 mins a 0);3
+2292;48;16;30/08/2024 9:00;Circuito 2;;;;;1;;;;;;False;;;;[2, 12, 6];kms, mins, mins;A) 2 kms < 12 mins (12 mins a 10,5)( 6 mins rest);3
+2292;48;16;30/08/2024 9:00;Circuito 2;;;;;2;;;;;;False;;;;[1, 5,5, 6];km, mins, mins;B) 1 km < 5,5 mins (5,5 mins a 11) (6 mins rest);3
+2551;152;12;26/09/2024 7:30;Circuito 3: Metabólico 15-10-5 en menos de 8 minutos;Metabólico;;Esquema 15-10-5;8;4;;;;;;False;;;;;;;3
+2674;259;3;10/09/2024 16:30;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;3;;;;;;False;;;;[2];mins;3) 2 mins a 9;3
+3342;191;12;27/08/2024 18:30;Circuito 3: EMOM 9 mins;;;emom;9;4;;;;;;False;;;;[12, 1];saltos, M;3) 12 saltos 1 M;3
+3467;145;11;26/08/2024 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;C;3
+3637;308;1;28/08/2024 9:30;Circuito 1: Activación x 2 series;Activación;2.0;;;5;;;;;;False;;;;[2];mins;5) 2 mins a 13,5;3
+3961;275;19;23/09/2024 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;;;;;;False;;;;;;3;3
+6238;424;10;05/11/2024 10:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;;;;;;False;;;;;;3);3
+6908;160;32;07/11/2024 8:30;"Circuito 3: Metabólico de escalera completando ejercicios máximo 7 minutos (ej.: 1; 1-2; 1-2-3…)";Metabólico;;Esquema 1-2;7;2;;;;;;False;;;;;;01-feb;3
+6908;160;32;07/11/2024 8:30;"Circuito 3: Metabólico de escalera completando ejercicios máximo 7 minutos (ej.: 1; 1-2; 1-2-3…)";Metabólico;;Esquema 1-2;7;3;;;;;;False;;;;;;1-2-3…);3
+7176;62;31;28/10/2024 18:30;Circuito 3: 10-20-30;;;Esquema 10-20-30;;1;;;;;;False;;;;;;10-20-30;3
+7180;149;33;25/10/2024 19:00;Circuito 3: 10-20-30;;;Esquema 10-20-30;;1;;;;;;False;;;;;;10-20-30;3
+7275;445;1;Por programar;Sin circuito definido;;;;;1;;;;;;False;;;;;;1;3
+7276;445;2;Por programar;Sin circuito definido;;;;;1;;;;;;False;;;;;;2;3
+7923;250;29;31/10/2024 21:00;Circuito 3: Metabólico EMOM 8mins;Metabólico;;emom;8;5;;;;;;False;;;;;;;3
+8057;197;21;08/11/2024 19:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;[2];mins;5) 2 mins a 12,5.;3
+8148;65;29;06/11/2024 19:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;[2];mins;5) 2 mins a 12,5.;3
+8474;39;24;12/11/2024 17:30;Circuito 3: Metabólico EMOM 8 min;Metabólico;;emom;8;4;;;;[15];;False;;;;;;+15kg;3
+8477;475;2;07/11/2024 19:00;Circuito 1: Activación x 3 series;Activación;3.0;;;1;;;;;;False;;;;;;1);3
+8928;257;22;14/02/2025 16:00;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;4;;;;;;False;;;;;;0;3
+9233;61;28;11/11/2024 18:00;Circuito 3: emom 9mins;;;emom;9;2;;;;;;False;;;;[4];pasillos;1) 4 pasillos;3
+9300;207;25;13/11/2024 19:00;Circuito 3: death by burpee+2 swings 12 kg (cada min 2 mas);;;;;3;;;;;;False;;;;;;v;3
+9385;208;29;15/11/2024 19:00;Circuito 1: Activación x 3 series;Activación;3.0;;;2;;;;;;False;;;;;;2);3
+9878;430;9;20/11/2024 7:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+9879;430;10;22/11/2024 7:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+9905;457;7;19/11/2024 11:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+9906;457;8;21/11/2024 11:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+10030;150;34;03/12/2024 8:00;Circuito 2: x2;;;;;1;;;;;;False;;;;;;x2;3
+10032;150;36;10/12/2024 8:00;Circuito 2: x2;;;;;1;;;;;;False;;;;;;x2;3
+10035;150;39;19/12/2024 8:00;Circuito 2: x2;;;;;1;;;;;;False;;;;;;x2;3
+10037;150;40;23/12/2024 7:00;Circuito 2: x 2;;;;;1;;;;;;False;;;;;;x 2;3
+10039;150;43;07/01/2025 8:00;Circuito 2: x 2;;;;;1;;;;;;False;;;;;;x 2;3
+10042;150;46;16/01/2025 8:00;Circuito 2: x 2;;;;;1;;;;;;False;;;;;;x 2;3
+10692;200;30;12/12/2024 20:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;v;3
+10889;22;44;13/01/2025 7:00;Circuito 3: 3-6-9;;;Esquema 3-6-9;;1;;;;;;False;;;;;;03/06/2009;3
+10893;22;48;27/01/2025 7:00;Circuito 3: 3-6-9 6mins;;;Esquema 3-6-9;6;1;;;;;;False;;;;[6];mins;3-6-9 6mins;3
+10999;157;48;07/01/2025 8:30;Circuito 2: x 2;;;;;1;;;;;;False;;;;;;x 2;3
+11001;157;50;14/01/2025 8:30;Circuito 2: x2;;;;;1;;;;;;False;;;;;;x2;3
+11003;157;52;21/01/2025 8:30;Circuito 2: x2;;;;;1;;;;;;False;;;;;;x2;3
+11007;157;56;04/02/2025 8:30;Circuito 2: x3;;;;;1;;;;;;False;;;;;;x3;3
+11008;157;57;06/02/2025 8:30;Circuito 2: x 2;;;;;1;;;;;;False;;;;;;x 2;3
+11010;157;59;13/02/2025 8:30;Circuito 2: x2;;;;;1;;;;;;False;;;;;;x2;3
+11011;157;60;18/02/2025 8:30;Circuito 2: x2;;;;;1;;;;;;False;;;;;;x2;3
+11234;421;33;13/02/2025 17:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;[3];mins;5) 3 mins a 8;3
+11439;313;30;18/12/2024 16:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;;;;;;False;;;;;;3);3
+11689;43;41;10/02/2025 17:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[35, 45];[10, 2];False;;;;;;"1) 35x10; 45x2 serie 3";3
+12035;430;15;27/11/2024 7:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12035;430;15;27/11/2024 7:30;Circuito 2: 2 vueltas;;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12036;430;16;29/11/2024 7:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12037;430;17;04/12/2024 7:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12038;430;18;09/12/2024 7:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12039;430;19;11/12/2024 7:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12039;430;19;11/12/2024 7:30;Circuito 2: 2 vueltas;;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12040;430;20;18/12/2024 7:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12045;430;21;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12046;430;26;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12047;430;27;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12047;430;27;Por programar;Circuito 2: 2 vueltas;;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12048;430;28;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12049;430;29;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12050;430;30;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12051;430;31;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12056;434;15;08/01/2025 10:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12056;434;15;08/01/2025 10:30;Circuito 2: 2 vueltas;;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12057;434;20;10/01/2025 10:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12058;434;21;15/01/2025 10:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12059;434;22;17/01/2025 10:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12060;434;23;22/01/2025 10:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12060;434;23;22/01/2025 10:30;Circuito 2: 2 vueltas;;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12061;434;24;24/01/2025 10:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12062;434;25;29/01/2025 10:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12063;434;26;31/01/2025 10:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12064;434;27;05/02/2025 10:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12064;434;27;05/02/2025 10:30;Circuito 2: 2 vueltas;;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12065;434;28;07/02/2025 10:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12066;434;29;12/02/2025 10:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12067;434;30;14/02/2025 10:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12068;440;16;02/12/2024 11:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12068;440;16;02/12/2024 11:00;Circuito 2: 2 vueltas;;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12069;440;17;09/12/2024 11:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12070;440;18;12/12/2024 17:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12071;440;19;16/12/2024 11:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12072;440;20;20/12/2024 10:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12072;440;20;20/12/2024 10:00;Circuito 2: 2 vueltas;;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12074;440;21;27/12/2024 9:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12075;440;23;10/01/2025 11:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12077;440;25;17/01/2025 11:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12078;440;26;20/01/2025 11:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12079;440;27;24/01/2025 11:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12081;440;29;31/01/2025 11:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12082;440;30;03/02/2025 11:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+12083;440;31;07/02/2025 11:00;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+13510;313;32;26/12/2024 10:00;Circuito 1: Activación x 3 series;Activación;3.0;;;4;;;;;;False;;;;;;4);3
+14641;22;51;07/02/2025 7:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+14645;22;55;21/02/2025 7:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+14653;22;63;14/03/2025 7:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+14655;235;51;15/01/2025 19:30;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+14662;153;48;16/01/2025 8:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+14666;153;52;30/01/2025 8:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+14674;153;60;06/03/2025 8:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+14676;187;47;14/01/2025 17:30;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+14684;187;54;13/02/2025 17:30;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+14692;484;28;03/02/2025 9:30;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+14700;484;36;24/02/2025 9:30;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+14713;40;56;17/03/2025 10:00;Circuito 3: 3-6-9;;;Esquema 3-6-9;;1;;;;;;False;;;;;;03/06/2009;3
+14728;50;32;29/01/2025 16:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+14748;441;25;21/01/2025 12:00;Circuito 3: (15-10-5)en 8 mins;;;Esquema 15-10-5;8.0;1;;;;;[15-10-5];False;;;;[8];mins;(15-10-5)en 8 mins;3
+14751;441;28;31/01/2025 12:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+15056;337;38;17/01/2025 8:30;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+15060;337;42;27/01/2025 8:30;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+15064;337;46;05/02/2025 8:30;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+15068;337;50;14/02/2025 8:30;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+15072;337;54;24/02/2025 8:30;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+15096;437;20;03/12/2025 16:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;[6];False;;;;;;x6 serie 2 y 3;3
+15098;471;20;15/01/2025 20:30;Circuito 3: metabólico: emom 9 mins;Metabólico;;emom;9.0;4;;;;;;False;;;;[15];saltos;15 saltos a 60;3
+15111;482;17;24/01/2025 12:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+15115;482;21;07/02/2025 12:00;Circuito 3: 21-15-9 en 6 mins;;;Esquema 21-15-9;6.0;1;;;;;[15-9];False;;;;[6];mins;21-15-9 en 6 mins;3
+15120;448;27;24/02/2025 20:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+15124;448;31;10/03/2025 20:00;Circuito 3: 21-15-9 en 6 mins;;;Esquema 21-15-9;6.0;1;;;;;[15-9];False;;;;[6];mins;21-15-9 en 6 mins;3
+15131;438;31;17/02/2025 18:30;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+15135;438;35;03/03/2025 18:30;Circuito 3: 21-15-9 en 6 mins;;;Esquema 21-15-9;6.0;1;;;;;[15-9];False;;;;[6];mins;21-15-9 en 6 mins;3
+15216;301;37;20/01/2025 21:00;Circuito 1: Activación x 3;Activación;;;;2;;;;;;False;;;;;;series;3
+15402;506;12;03/03/2025 20:00;Circuito 2: E2mins- 18 mins;;;;2.0;1;;;;;;False;;;;[2, 18];mins, mins;E2mins- 18 mins;3
+15487;362;45;15/01/2025 18:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+15524;330;44;16/01/2025 20:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+15600;487;17;12/02/2025 16:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+15601;487;18;17/02/2025 16:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+15605;496;13;28/01/2025 9:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+15606;496;14;30/01/2025 9:30;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+15609;508;10;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+15610;508;11;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+15690;71;69;28/01/2025 7:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+15698;240;47;28/01/2025 19:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+15701;283;38;20/01/2025 21:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+15707;296;62;22/01/2025 20:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+15710;232;48;30/01/2025 19:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+15796;60;52;10/02/2025 17:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+15819;462;26;05/02/2025 12:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+16093;53;47;14/03/2025 8:30;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;[12];kcal;5) 12 kcal;3
+16898;496;17;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+16899;496;18;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+16902;496;21;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+16903;496;22;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+16906;496;25;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+16907;496;26;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+16910;496;29;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+16911;496;30;Por programar;Cicuito 1 de activación: 2 vueltas;Activación;;;;1;;;;;[2];False;;;;;;2 vueltas;3
+16912;496;31;Por programar;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+17352;330;51;31/01/2025 19:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+18054;355;55;07/02/2025 7:30;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+18058;355;59;17/02/2025 7:30;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+18062;355;63;26/02/2025 7:30;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+18066;355;67;12/03/2025 7:30;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+18069;381;43;12/02/2025 8:00;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+18073;381;47;21/02/2025 8:00;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+18077;381;51;03/03/2025 8:00;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+18081;381;55;14/03/2025 8:00;Circuito 1: x 3;;;;;1;;;;;;False;;;;;;x 3;3
+18868;155;100;14/02/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+18991;525;11;17/02/2025 21:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+19300;558;2;Por programar;Sin circuito definido;;;;;1;;;;;;False;;;;;;222;3
+19672;33;88;26/02/2025 9:00;Metabólico: E2MOM 8' Cada 2min y descansa lo que sobra;Metabólico;;;2;3;;;;;;False;;;;;;2.;3
+19714;560;8;09/04/2025 17:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;;;;;;False;;;;;;4);3
+19865;301;50;10/03/2025 21:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+20062;296;78;03/03/2025 20:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];Saltos;2. 8 Saltos a 45;3
+20065;471;32;03/03/2025 20:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+20137;278;35;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;;;False;;;;;;1);3
+20293;374;36;17/03/2025 10:00;Circuito 3: 15-105 en 9 mins;;;Esquema 15-105;9;1;;;;;[105];False;;;;[9];mins;15-105 en 9 mins;3
+20297;374;40;08/04/2025 17:00;Circuito 3: 21-15-9 en 10 mins;;;Esquema 21-15-9;10;1;;;;;[15-9];False;;;;[10];mins;21-15-9 en 10 mins;3
+20300;374;43;23/04/2025 11:30;Circuito 3:15-20-5 en 9 mins;;;Esquema 15-20-5;9;1;;;;;[20-5];False;;;;[9];mins;15-20-5 en 9 mins;3
+20432;187;58;27/02/2025 17:30;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+20660;462;35;19/03/2025 12:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+20796;232;59;14/03/2025 7:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];Salto;2. 8 Salto a 60;3
+20883;155;111;06/03/2025 8:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+20936;51;70;12/05/2025 16:00;Circuito 3: 15-10-5 en 8 mins;;;Esquema 15-10-5;8;1;;;;;[10-5];False;;;;[8];mins;15-10-5 en 8 mins;3
+21019;522;16;09/04/2025 17:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];Salto;2. 8 Salto a 60;3
+21147;40;59;31/03/2025 10:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+21151;40;63;14/04/2025 10:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+21159;40;71;26/05/2025 10:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+21338;550;10;13/03/2025 18:30;Circuito 1: Activación x 3 series;Activación;3.0;;;4;;;;[15];[15];False;;;;[15];kcal;4) 15 kcalremo;3
+21364;506;16;31/03/2025 20:00;Circuito 3: 21-15-9: 11mins;;;Esquema 21-15-9;11;1;;;;;;False;;;;[11];mins;21-15-9: 11mins;3
+21374;22;72;21/04/2025 7:00;Circuito 3: 21-15-9: 10mins;;;Esquema 21-15-9;10;1;;;;;;False;;;;[10];mins;21-15-9: 10mins;3
+21380;22;79;19/05/2025 7:00;Circuito 3: 21-15-9: 11mins;;;Esquema 21-15-9;11;1;;;;;;False;;;;[11];mins;21-15-9: 11mins;3
+21578;337;65;21/03/2025 8:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+21615;163;73;10/04/2025 9:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+21618;196;53;20/03/2025 19:00;Circuito 2: Completa el WOD Linda en el menor tiempo posible;;;;;1;;;;;;False;;;;;;10-9-8-7-6-5-4-3-2-1-Descanso;3
+21693;362;66;19/03/2025 18:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];Salto;2. 8 Salto a 60;3
+21701;510;34;11/03/2025 9:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+21703;283;53;12/03/2025 21:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+21704;60;62;12/03/2025 17:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+21711;270;28;20/03/2025 7:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+21714;362;68;26/03/2025 18:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+21772;523;37;07/04/2025 7:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22023;283;63;23/04/2025 21:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+22025;283;65;30/04/2025 21:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22123;582;17;07/05/2025 7:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+22130;583;6;27/03/2025 11:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+22142;583;18;27/05/2025 11:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+22147;581;8;04/04/2025 19:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+22149;581;10;15/04/2025 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+22254;510;46;08/04/2025 8:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22266;362;78;23/04/2025 18:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+22268;362;80;28/04/2025 18:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22294;354;68;24/03/2025 17:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+22296;354;70;27/03/2025 18:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22308;354;82;05/05/2025 16:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22316;471;42;07/04/2025 20:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22326;471;52;14/05/2025 20:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+22328;471;54;23/05/2025 19:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22341;270;38;04/07/2025 7:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+22343;270;40;17/07/2025 7:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22452;134;122;03/04/2025 9:00;Circuito 3: COR(R)E x3;;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+22455;134;125;10/04/2025 9:00;Circuito 3: MET 10' 1,1+2,1+2+3,1+2+3+4...;;;;;3;;;;;;False;;;;;;2. Vs;3
+22468;134;138;13/05/2025 9:00;Circuito 3: COR(R)E x3;;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+22474;48;103;27/03/2025 9:00;Circuito 3: MET 10' 1,1+2,1+2+3,1+2+3+4...;;;;;3;;;;;;False;;;;;;2. Vs;3
+22491;48;120;22/05/2025 16:00;Circuito 3: MET 10' 1,1+2,1+2+3,1+2+3+4...;;;;;3;;;;;;False;;;;;;2. Vs;3
+22521;178;70;25/03/2025 12:00;Circuito 3: CORE x 3;Core;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+22522;178;71;27/03/2025 12:00;Circuito 3: MET 10' 1,1+2,1+2+3,1+2+3+4...;;;;;3;;;;;;False;;;;;;2. Vs;3
+22543;240;62;25/03/2025 19:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22555;240;74;13/05/2025 19:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+22557;240;76;20/05/2025 19:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22644;301;61;23/04/2025 21:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22720;232;69;24/04/2025 19:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22739;160;98;15/05/2025 8:30;Circuito 3: MET 10' 1,1+2,1+2+3,1+2+3+4...;;;;;3;;;;;;False;;;;;;2. Vs;3
+22743;193;91;07/04/2025 7:00;Circuito 3: CORE x 3;Core;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+22744;193;92;11/04/2025 7:00;Circuito 3: MET 10' 1,1+2,1+2+3,1+2+3+4...;;;;;3;;;;;;False;;;;;;2. Vs;3
+22773;462;38;28/03/2025 12:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+22826;296;88;04/04/2025 19:00;Circuito 3: 21-15-9 12 Minutos;;;Esquema 21-15-9;12.0;1;;;;;[15-9];False;;;;[12];Min;21-15-9 12 Minutos;3
+23240;276;104;29/04/2025 9:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+23244;276;108;12/05/2025 10:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+23252;276;116;11/06/2025 10:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+23266;374;49;20/05/2025 10:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+23311;462;48;12/05/2025 12:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+23313;462;50;22/05/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+23317;155;129;07/04/2025 8:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+23319;155;131;10/04/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+23336;132;97;17/04/2025 9:00;Circuito 3: MET 10' 1,1+2,1+2+3,1+2+3+4...;;;;;3;;;;;;False;;;;;;2. Vs;3
+23392;149;98;11/04/2025 19:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+23394;149;100;22/04/2025 10:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+23404;155;141;29/04/2025 8:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];Salto;2. 8 Salto a 60;3
+23406;155;143;06/05/2025 8:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+23433;30;71;24/04/2025 17:00;Circuito 3: CORE x 3;Core;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+23434;30;72;28/04/2025 9:30;Circuito 3: MET 12' 1,1+2,1+2+3,1+2+3+4...;;;;;3;;;;;;False;;;;;;2. Vs;3
+23473;399;58;09/05/2025 16:00;Circuito 3: COR(R)E x3;;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+23498;330;69;22/04/2025 20:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+23508;330;79;19/05/2025 20:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+23510;330;81;22/05/2025 20:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+23542;296;98;30/04/2025 20:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+23556;154;90;13/05/2025 7:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+23744;589;2;09/04/2025 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+23860;596;2;10/04/2025 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+23878;60;71;14/04/2025 17:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];Salto;2. 8 Salto a 60;3
+23886;589;3;14/04/2025 11:00;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;4;;;;;;False;;;;;;•;3
+23890;197;58;15/04/2025 19:00;Circuito 3: COR(R)E x3;;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+23924;589;4;16/04/2025 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+24006;284;94;17/04/2025 18:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];Salto;2. 8 Salto a 60;3
+24008;284;96;24/04/2025 18:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+24024;337;77;30/04/2025 8:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+24028;60;73;21/04/2025 17:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+24042;551;33;17/06/2025 20:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+24090;523;49;16/05/2025 7:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+24175;591;8;23/05/2025 16:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+24188;596;5;22/04/2025 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+24189;596;6;24/04/2025 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+24192;596;9;08/05/2025 12:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;;;•;3
+24192;596;9;08/05/2025 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;;;;;;False;;;;;;•;3
+24192;596;9;08/05/2025 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;;;;;;False;;;;;;•;3
+24192;596;9;08/05/2025 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+24192;596;9;08/05/2025 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;7;;;;;;False;;;;;;•;3
+24192;596;9;08/05/2025 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;9;;;;;;False;;;;;;•;3
+24227;601;9;05/06/2025 16:00;Circuito 3: Metabólico EMOM 9 min;Metabólico;;emom;9.0;5;;;;;;False;;;;;;•;3
+24228;601;10;09/06/2025 18:00;Final: Aeróbico largo: 400 m ski- 600 m remo – 800 m powerbike;;;;;2;;;;;;False;;;;;;•;3
+24229;601;11;23/06/2025 17:30;Circuito 3: Abdomen x 3 series;;3.0;;;3;;;;;;False;;;;;;•;3
+24237;599;7;07/05/2025 20:00;Circuito 3: Metabólico EMOM 9 min;Metabólico;;emom;9.0;5;;;;;;False;;;;;;•;3
+24238;599;8;12/05/2025 20:00;Final: Aeróbico largo: 400 m ski- 600 m remo – 1 km powerbike;;;;;2;;;;;;False;;;;;;•;3
+24536;71;99;28/04/2025 7:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+24538;71;101;05/05/2025 7:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+24546;23;68;28/05/2025 7:30;Circuito 3: COR(R)E x3;;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+24548;23;71;16/06/2025 7:30;Circuito 3: MET 10' 1,1+2,1+2+3,1+2+3+4...;;;;;3;;;;;;False;;;;;;2. Vs;3
+24557;510;58;16/05/2025 9:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+24581;197;61;30/04/2025 10:00;Circuito 3: MET 10' 1,1+2,1+2+3,1+2+3+4...;;;;;3;;;;;;False;;;;;;2. Vs;3
+24597;197;77;10/07/2025 19:00;Circuito 3: MET 10' 1,1+2,1+2+3,1+2+3+4...;;;;;3;;;;;;False;;;;;;2. Vs;3
+24682;578;23;25/06/2025 17:30;"Circuito 3: Metabólico: 1; 1+2; 1+2+3; 1+2+3+4, etc. en < de 13 minutos";Metabólico;;;13.0;2;;;;;;False;;;;;;1+2;3
+24682;578;23;25/06/2025 17:30;"Circuito 3: Metabólico: 1; 1+2; 1+2+3; 1+2+3+4, etc. en < de 13 minutos";Metabólico;;;13.0;3;;;;;;False;;;;;;1+2+3;3
+24701;560;23;Por programar;"Circuito 3: Metabólico: 1; 1+2; 1+2+3; 1+2+3+4, etc. en < de 13 minutos";Metabólico;;;13.0;2;;;;;;False;;;;;;1+2;3
+24701;560;23;Por programar;"Circuito 3: Metabólico: 1; 1+2; 1+2+3; 1+2+3+4, etc. en < de 13 minutos";Metabólico;;;13.0;3;;;;;;False;;;;;;1+2+3;3
+25227;518;39;17/10/2025 7:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[45];[10];False;;;;;;1) 45x10;3
+25239;518;43;07/11/2025 7:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[45, 50, 55];[10, 8, 6];False;;;;;;"1) 45x10; 50x8; 55x6";3
+25253;518;48;02/12/2025 19:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[50, 60, 60];[10, 4, 4];False;;;;;;"1) 50x10; serie 2 y 3 60x4";3
+25262;444;66;25/06/2025 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[45];[10];False;;;;;;1) 45x10;3
+25267;444;70;08/07/2025 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[45, 50, 55];[10, 8, 6];False;;;;;;"1) 45x10; 50x8; 55x6";3
+25273;444;75;29/07/2025 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[50, 60, 60];[10, 4, 4];False;;;;;;"1) 50x10; serie 2 y 3 60x4";3
+25287;312;77;25/06/2025 18:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[45];[10];False;;;;;;1) 45x10;3
+25292;312;81;23/07/2025 18:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[45, 50, 55];[10, 8, 6];False;;;;;;"1) 45x10; 50x8; 55x6";3
+25299;312;86;12/08/2025 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[50, 60, 60];[10, 4, 4];False;;;;;;"1) 50x10; serie 2 y 3 60x4";3
+25316;497;47;10/07/2025 20:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[65];[10];False;;;;;;1) 65x10;3
+25321;497;51;16/09/2025 20:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[65, 70, 75];[10, 8, 6];False;;;;;;"1) 65x10; 70x8; 75x6";3
+25327;497;56;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[60, 70, 70];[10, 4, 4];False;;;;;;"1) 60x10; serie 2 y 3 70x4";3
+25340;303;84;12/06/2025 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[80];[10];False;;;;;;1) 80x10;3
+25347;303;88;27/06/2025 17:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[80, 85, 90];[10, 8, 6];False;;;;;;"1) 80x10; 85x8; 90x6";3
+25355;303;93;15/07/2025 7:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[85, 100, 100];[10, 4, 4];False;;;;;;"1) 85x10; serie 2 y 3 100x4";3
+25482;24;111;02/06/2025 8:00;Circuito 3: EMOM de fuerza 12 mins;Fuerza;;emom;12.0;5;;;;;;False;[1];;;;;4) REST 1´;3
+25486;24;115;11/06/2025 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[50];[10];False;;;;;;1) 50x10;3
+25488;24;117;18/06/2025 8:00;Circuito 3: EMOM de fuerza 12 mins;Fuerza;;emom;12.0;5;;;;;;False;[1];;;;;4) REST 1´;3
+25492;24;121;08/08/2025 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[40, 45, 50];[10, 8, 6];False;;;;;;"1) 40x10; 45x8; 50x6";3
+25494;24;123;13/08/2025 8:00;Circuito 3: EMOM de fuerza 12 mins;Fuerza;;emom;12.0;5;;;;;;False;[1];;;;;4) REST 1´;3
+25497;24;126;05/09/2025 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[50, 60, 60];[10, 4, 4];False;;;;;;"1) 50x10; serie 2 y 3 60x4";3
+25503;447;66;22/05/2025 19:00;Circuito 3: EMOM de fuerza 12 mins;Fuerza;;emom;12.0;5;;;;;;False;[1];;;;;4) REST 1´;3
+25508;447;70;18/06/2025 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[65];[10];False;;;;;;1) 65x10;3
+25510;447;72;25/06/2025 19:30;Circuito 3: EMOM de fuerza 12 mins;Fuerza;;emom;12.0;5;;;;;;False;[1];;;;;4) REST 1´;3
+25514;447;76;04/07/2025 17:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[55, 62.5, 70];[10, 8, 6];False;;;;;;"1) 55x10; 62,5x8; 70x6";3
+25532;60;83;02/06/2025 17:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+25538;447;82;17/07/2025 19:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[60, 70, 70];[10, 4, 4];False;;;;;;"1) 60x10; serie 2 y 3 70x4";3
+25540;60;85;09/06/2025 17:30;Circuito 3: 21-15-9 9:30 Minutos;;;Esquema 21-15-9;30.0;1;;;;;[15-9];False;;;;[30];Min;21-15-9 9:30 Minutos;3
+25549;504;77;02/06/2025 19:30;Circuito 3: EMOM de fuerza 12 mins;Fuerza;;emom;12.0;5;;;;;;False;[1];;;;;4) REST 1´;3
+25553;504;81;12/06/2025 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[60];[10];False;;;;;;1) 60x10;3
+25555;504;83;18/06/2025 19:30;Circuito 3: EMOM de fuerza 12 mins;Fuerza;;emom;12.0;5;;;;;;False;[1];;;;;4) REST 1´;3
+25560;504;88;03/07/2025 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[60, 70, 70];[10, 4, 4];False;;;;;;"1) 60x10; serie 2 y 3 70x4";3
+25573;504;89;09/07/2025 19:30;Circuito 3: EMOM de fuerza 12 mins;Fuerza;;emom;12.0;5;;;;;;False;[1];;;;;4) REST 1´;3
+25650;178;95;03/07/2025 12:00;Circuito 3: MET 10' 1,1+2,1+2+3,1+2+3+4...;;;;;3;;;;;;False;;;;;;2. Vs;3
+25721;184;71;05/06/2025 17:00;Circuito 3: MET 10' 1,1+2,1+2+3,1+2+3+4...;;;;;3;;;;;;False;;;;;;2. Vs;3
+26176;585;18;21/05/2025 20:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+26214;485;54;21/07/2025 7:00;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+26224;485;64;15/09/2025 9:00;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+26244;374;69;21/11/2025 9:00;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+26250;527;33;13/11/2025 11:00;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+26260;527;43;09/01/2026 10:30;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+26269;43;65;30/06/2025 17:00;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+26279;43;75;08/09/2025 17:00;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+26309;511;47;01/07/2025 16:00;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+26319;511;57;10/09/2025 16:00;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+26327;307;80;15/07/2025 11:00;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+26337;307;90;03/11/2025 11:30;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+26351;276;129;25/07/2025 10:00;Circuito 3: 2-4-6-4-2;;;Esquema 2-4-6-4-2;;1;;;;;;False;;;;;;2-4-6-4-2;3
+26355;276;133;01/08/2025 10:00;Circuito 3: 2-4-6-4-2;;;Esquema 2-4-6-4-2;;1;;;;;;False;;;;;;2-4-6-4-2;3
+26626;585;22;16/06/2025 20:00;Circuito 3: 3-6-9;;;Esquema 3-6-9;;1;;;;;;False;;;;;;03/06/2009;3
+26628;585;24;23/06/2025 20:00;Circuito 3: 15-10-5 en 8 mins;;;Esquema 15-10-5;8.0;1;;;;;[10-5];False;;;;[8];mins;15-10-5 en 8 mins;3
+26630;585;26;09/07/2025 20:00;Circuito 3: 3-6-9;;;Esquema 3-6-9;;1;;;;;;False;;;;;;03/06/2009;3
+26676;193;108;26/05/2025 9:30;Circuito 3: 15-10-5 en 8 mins;;;Esquema 15-10-5;8.0;1;;;;;[10-5];False;;;;[8];mins;15-10-5 en 8 mins;3
+26791;595;15;28/05/2025 9:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;;;;;;False;;;;;;•;3
+26791;595;15;28/05/2025 9:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+26791;595;15;28/05/2025 9:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;7;;;;;;False;;;;;;•;3
+26993;417;56;03/06/2025 19:30;Circuito 3: CORE x 3;Core;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+26998;155;153;30/05/2025 8:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+27016;337;89;30/05/2025 8:30;Circuito 3: 21-15-9 10 Minutos;;;Esquema 21-15-9;10.0;1;;;;;[15-9];False;;;;[10];Min;21-15-9 10 Minutos;3
+27030;71;111;06/06/2025 17:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];Salto;2. 8 Salto a 60;3
+27032;71;113;11/06/2025 7:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+27037;155;155;03/06/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+27065;301;73;17/07/2025 16:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+27092;354;92;29/05/2025 16:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+27094;354;94;04/06/2025 9:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+27259;615;2;26/05/2025 16:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+27383;615;8;04/07/2025 16:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;;;;;;False;;;;;;•;3
+27383;615;8;04/07/2025 16:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+27383;615;8;04/07/2025 16:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;8;;;;;;False;;;;;;•;3
+27466;48;133;16/06/2025 21:00;Circuito 3: COR(R)E x3;;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+27472;232;79;24/06/2025 19:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+27474;232;81;01/07/2025 19:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+27698;623;5;05/06/2025 7:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;;;5);3
+27732;522;19;21/05/2025 17:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];Salto;2. 8 Salto a 60;3
+27734;522;21;04/06/2025 17:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+27797;523;59;09/06/2025 7:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+27799;523;61;13/06/2025 7:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+27906;510;68;10/06/2025 9:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+27908;510;70;17/06/2025 9:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+27926;196;73;26/06/2025 19:00;"Circuito 3. Met: Completa las 5 Rondas del WOD Danny en menos de 22""";;;;;2;;;;;;False;;;;[30];Saltos;30 Saltos a 60;3
+27930;196;77;10/07/2025 16:30;"Circuito 3. Met: Completa el WOD Lumberjack en menos de 25""";;;;;12;;;;;;False;;;;[20];Saltos;20 Saltos a 60;3
+27933;296;110;13/06/2025 19:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+27935;296;112;23/06/2025 20:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+28086;55;77;16/06/2025 18:00;Circuito 3: Metabólico EMOM 9 min;Metabólico;;emom;9.0;5;;;;;;False;;;;;;;3
+28286;240;88;17/07/2025 19:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+28293;471;64;01/07/2025 20:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+28295;471;66;08/07/2025 20:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+28423;630;2;12/06/2025 19:00;Circuito 1: Activación x 3 series;Activación;3.0;;;3;;;;;;False;;;;;;•;3
+28423;630;2;12/06/2025 19:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+28624;626;5;26/06/2025 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+28830;23;85;05/09/2025 10:30;Circuito 1: Activación x 3 series;Activación;3.0;;;4;;;;[15];[15];False;;;;[15];kcal;4) 15 kcalremo;3
+28835;337;99;30/06/2025 8:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];Salto;2. 8 Salto a 60;3
+28837;337;101;04/07/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+28877;354;104;04/07/2025 9:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+28884;354;106;08/07/2025 17:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+28896;155;167;26/06/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+29015;582;30;27/06/2025 8:00;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+29039;30;92;22/07/2025 9:00;Circuito 3: Metabólico 50/50 5';Metabólico;;Esquema 50-50;;2;;;;;;False;;;;[50];saltos;1. 50 saltos a 45;3
+29206;60;95;21/07/2025 17:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+29208;60;97;28/07/2025 17:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+29230;71;123;14/07/2025 7:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+29232;71;125;18/07/2025 17:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+29260;44;97;08/08/2025 19:00;Circuito 3: Metabólico 50/50 5';Metabólico;;Esquema 50-50;;2;;;;;;False;;;;[50];saltos;1. 50 saltos a 45;3
+29428;170;90;24/07/2025 10:30;Circuito 3: EMOM de fuerza 12 mins;Fuerza;;emom;12.0;5;;;;;;False;[1];;;;;4) REST 1´;3
+29439;29;92;29/07/2025 20:00;Circuito 3: EMOM de fuerza 12 mins;Fuerza;;emom;12.0;5;;;;;;False;[1];;;;;4) REST 1´;3
+29479;632;14;11/09/2025 20:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;[8];saltos;5) 8 saltos a 30;3
+29767;155;177;14/07/2025 8:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+29769;155;179;17/07/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+29811;296;122;Por programar;Circuito 2: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+29813;296;124;Por programar;Circuito 2: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+29824;551;45;21/10/2025 19:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+29868;297;87;14/08/2025 11:00;Circuito de calentamiento x3;Calentamiento;;;;2;;;;;;False;;;;;;2.;3
+29872;297;91;08/09/2025 11:30;Circuito de calentamiento x3;Calentamiento;;;;2;;;;;;False;;;;;;2.;3
+30213;629;13;Por programar;Circuito 3: 15-10-5-10-15 12';;;Esquema 15-10-5-10-15;;1;;;;;[10-5-10-15];False;[12];;;;;15-10-5-10-15 12';3
+30432;207;83;10/09/2025 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[50];[10];False;;;;;;1) 50x10;3
+30435;207;86;24/09/2025 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[50, 55, 60];[10, 7, 4];False;;;;;;"1) 50x10; 55x7; 60x4";3
+30464;303;102;02/09/2025 18:30;Circuito 1: Activación x 2 series;Activación;2.0;;;5;;;;;;False;;;;[2];mins;5) 2 mins a 13,5;3
+30478;639;8;05/08/2025 17:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+30497;639;27;Por programar;Circuito 3: 21-15-9 en 9 mins;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];mins;21-15-9 en 9 mins;3
+30499;639;29;Por programar;Circuito 3: EMOM 9 Mins;;;emom;9.0;3;;;;;;False;;;;;;•;3
+30529;510;80;01/08/2025 9:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+30531;510;82;02/09/2025 8:30;Circuito 3: 21-15-9 9 Minutos;;;Esquema 21-15-9;9.0;1;;;;;[15-9];False;;;;[9];Min;21-15-9 9 Minutos;3
+30594;645;2;11/07/2025 10:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;;;;;;False;;;;;;2);3
+30622;247;84;08/09/2025 16:30;Circuito 1: Activación x 2 series;Activación;2.0;;;1;;;;;;False;;;;;;1.;3
+30622;247;84;08/09/2025 16:30;Circuito 1: Activación x 2 series;Activación;2.0;;;3;;;;;;False;;;;;;2.;3
+30622;247;84;08/09/2025 16:30;Circuito 1: Activación x 2 series;Activación;2.0;;;5;;;;;;False;;;;;;3.;3
+30622;247;84;08/09/2025 16:30;Circuito 1: Activación x 2 series;Activación;2.0;;;7;;;;;;False;;;;;;4.;3
+30622;247;84;08/09/2025 16:30;Circuito 1: Activación x 2 series;Activación;2.0;;;9;;;;;;False;;;;;;5.;3
+30622;247;84;08/09/2025 16:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;;;False;;;;;;1.;3
+30622;247;84;08/09/2025 16:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;;;;;;False;;;;;;2.;3
+30622;247;84;08/09/2025 16:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;3.;3
+30622;247;84;08/09/2025 16:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;7;;;;;;False;;;;;;4.;3
+30622;247;84;08/09/2025 16:30;Circuito 3: CORE x 3 series;Core;3.0;;;1;;;;;;False;;;;;;1.;3
+30622;247;84;08/09/2025 16:30;Circuito 3: CORE x 3 series;Core;3.0;;;3;;;;;;False;;;;;;2.;3
+30622;247;84;08/09/2025 16:30;Circuito 3: CORE x 3 series;Core;3.0;;;5;;;;;;False;;;;;;3.;3
+30737;564;61;08/10/2025 9:00;Circuito de fuerza x 3;Fuerza;;;;6;;;;;;False;;;;;;#¡VALOR!;3
+30737;564;61;08/10/2025 9:00;Circuito de fuerza x 3;Fuerza;;;;7;;;;;;False;;;;;;0;3
+30737;564;61;08/10/2025 9:00;Circuito de fuerza x 3;Fuerza;;;;8;;;;;;False;;;;;;0;3
+30775;354;116;04/08/2025 16:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];Salto;2. 8 Salto a 60;3
+30777;354;118;07/08/2025 16:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+30787;447;83;21/07/2025 19:30;Circuito 3: 21-15-9 <8,5 mins;;;Esquema 21-15-9;8,5;1;;;;;[15-9];False;;;;[8,5];mins;21-15-9 <8,5 mins;3
+30809;544;43;22/07/2025 9:00;Circuito 3: 21-15-9 <7,5 mins;;;Esquema 21-15-9;7,5;1;;;;;[15-9];False;;;;[7,5];mins;21-15-9 <7,5 mins;3
+30900;647;7;06/08/2025 17:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+31063;235;82;01/08/2025 17:00;Circuito 3: 21-15-9 <9mins;;;Esquema 21-15-9;9;1;;;;;[15-9];False;;;;[9];mins;21-15-9 <9mins;3
+31299;523;82;06/08/2025 20:00;Circuito 3: 15-10-5-10-15 12';;;Esquema 15-10-5-10-15;;1;;;;;[10-5-10-15];False;[12];;;;;15-10-5-10-15 12';3
+31305;585;33;Por programar;Circuito 1: Activación x 3 series;Activación;3.0;;;4;;;;;;False;;;;;;4);3
+31428;155;189;08/08/2025 8:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+31493;355;122;06/08/2025 9:00;Metabólico maximas calorías en 3 máquinas EMOM: 1’ cals – 1’ rest;Metabólico;;emom;;1;;;;;;False;[1];;;;;1’ cals – 1’ rest;3
+31503;337;113;11/08/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+31515;471;76;03/09/2025 20:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+31517;471;78;10/09/2025 20:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+31726;582;43;05/09/2025 8:00;Circuito 1: Activación x 3 series;Activación;3.0;;;4;;;;;;False;;;;[8];saltos;4) 8 saltos a 45;3
+31744;155;191;12/08/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+31803;71;137;26/09/2025 17:00;Circuito 3: 18-12-9-12-18 12 Minutos;;;Esquema 18-12-9-12-18;12;1;;;;;[12-9-12-18];False;;;;[12];Min;18-12-9-12-18 12 Minutos;3
+31809;301;83;17/09/2025 10:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+31811;301;85;22/09/2025 16:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+31863;417;80;12/09/2025 19:00;Circuito 3: 21-15-9-15-21 14 Minutos;;;Esquema 21-15-9-15-21;14;1;;;;;[15-9-15-21];False;;;;[14];Min;21-15-9-15-21 14 Minutos;3
+31890;240;98;16/09/2025 20:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+31892;240;100;23/09/2025 20:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+32287;270;50;Por programar;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+32289;270;52;Por programar;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+32408;661;2;11/08/2025 9:00;Circuito 3: 15-10-5: 8mins;;;Esquema 15-10-5;8;1;;;;;;False;;;;[8];mins;15-10-5: 8mins;3
+32789;619;29;27/10/2025 19:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[65];[10];False;;;;;;1) 65x10;3
+32793;619;33;10/11/2025 19:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[50, 55, 60];[10, 8, 6];False;;;;;;"1) 50x10; 55x8; 60x6";3
+33005;172;95;27/01/2026 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;40;3
+33181;57;149;12/11/2025 10:00;Circuito 1: Activación x 3 series;Activación;3.0;;;2;;;;;[10];True;;;;;;x 10 x lado;3
+33186;57;154;25/11/2025 18:00;Circuito 1: Activación x 3 series;Activación;3.0;;;2;;;;;[10];True;;;;;;x 10 x lado;3
+33207;580;60;22/12/2025 19:30;Circuito 1: Activación x 3 series;Activación;3.0;;;2;;;;;[10];True;;;;;;x 10 x lado;3
+33251;633;42;Por programar;Circuito 1: Activación x 3 series;Activación;3.0;;;2;;;;;[10];True;;;;;;x 10 x lado;3
+33357;662;1;13/08/2025 9:00;"Circuito 4: metabólico en parejas. Tenéis 11 minutos para darle 2 vueltas. Disfrutadlo ;)";Metabólico;;;11;2;;;;;;False;;;;;;);3
+33504;311;59;06/10/2025 18:00;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;3;;;;[3];[20];False;;;;;;3) Wb 3 kg x20;3
+33516;358;38;Por programar;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;3;;;;[3];[20];False;;;;;;3) Wb 3 kg x20;3
+33538;579;38;05/02/2026 17:00;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;3;;;;[3];[20];False;;;;;;3) Wb 3 kg x20;3
+33986;523;92;12/09/2025 7:30;Circuito 3: 21-15-9 10';;;Esquema 21-15-9;;1;;;;;[15-9];False;[10];;;;;21-15-9 10';3
+34062;511;67;13/10/2025 16:00;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+34302;354;128;15/09/2025 16:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];saltos;2. 8 saltos a 60;3
+34304;354;130;18/09/2025 16:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+34316;354;142;17/10/2025 9:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+34322;337;123;19/09/2025 8:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+34324;337;125;24/09/2025 8:30;Circuito 3: 15-9-6 8 Minutos;;;Esquema 15-9-6;8;1;;;;;[9-6];False;;;;[8];Min;15-9-6 8 Minutos;3
+34334;337;135;17/10/2025 8:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];saltos;2. 8 saltos a 60;3
+34336;337;137;21/10/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+34355;335;96;20/10/2025 20:30;Circuito 3: Metabólico 50/50 5';Metabólico;;Esquema 50-50;;2;;;;;;False;;;;[50];saltos;1. 50 saltos a 45;3
+34439;60;107;15/09/2025 17:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];saltos;2. 8 saltos a 60;3
+34441;60;109;22/09/2025 17:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+34451;232;93;14/10/2025 19:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+34474;65;113;19/11/2025 19:00;Circuito 3: Metabólico 50/50 5';Metabólico;;Esquema 50-50;;2;;;;;;False;;;;[50];saltos;1. 50 saltos a 45;3
+34525;160;141;31/10/2025 8:30;Circuito 3: CORE x 3;Core;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+34582;155;201;18/09/2025 8:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];saltos;2. 8 saltos a 60;3
+34584;155;203;22/09/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+34588;155;205;25/09/2025 8:00;Circuito 3: Aeróbico TC 10' Acumula;;;;;4;;;;;;False;;;;;;3.;3
+34888;668;5;22/09/2025 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;[6];True;;;;;;x6 x lado;3
+35147;676;8;07/10/2025 21:00;"Circuito 4: 20"" de cada estiramiento x4";;;;;6;;;;;;False;;;;;;-;3
+35185;679;7;08/10/2025 21:00;Circuito 3: 21-15-9 en 8 mins;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];mins;21-15-9 en 8 mins;3
+35352;653;14;23/09/2025 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+35358;653;20;16/10/2025 18:30;Circuito 3: 15-12-9;;;Esquema 15-12-9;;1;;;;;;False;;;;;;15/12/2009;3
+35577;184;89;30/09/2025 17:00;Circuito 1: Activación x 2;Activación;;;;2;;;;;;False;;;;;;series;3
+35660;686;4;01/10/2025 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+35740;471;90;22/10/2025 18:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+35742;471;92;29/10/2025 20:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+35746;196;93;09/10/2025 18:00;Circuito 4 Met: Completa las 3 Rondas del WOD Danny en menos de 14`;;;;;2;;;;;;False;;;;[30];Saltos;30 Saltos a 60;3
+35758;155;213;09/10/2025 8:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];Salto;2. 8 Salto a 60;3
+35760;155;215;13/10/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+35831;687;14;25/02/2026 17:00;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+36177;691;8;28/10/2025 11:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+36184;692;6;16/10/2025 11:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+36207;697;1;25/09/2025 20:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;;;;[15, 15];[10, 10, 10];False;;;;;;"1) 10 x mc 12,5; serie 2 y 3 15 x10";3
+36237;240;112;13/11/2025 20:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+36331;60;119;27/10/2025 17:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+36333;60;121;03/11/2025 17:30;Circuito 3: 21-15-9 9:30 Minutos;;;Esquema 21-15-9;30;1;;;;;[15-9];False;;;;[30];Min;21-15-9 9:30 Minutos;3
+36624;415;100;06/11/2025 17:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+36632;676;16;Por programar;Circuito 3: Metabólico 50/50 5';Metabólico;;Esquema 50-50;;2;;;;;;False;;;;[50];saltos;1. 50 saltos a 45;3
+36735;301;97;Por programar;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+36863;509;137;16/12/2025 20:00;Circuito 3: COR(R)E x 3;;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+36866;163;124;06/11/2025 9:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+37043;311;65;27/10/2025 18:00;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;3;;;;[3];[20];False;;;;;;3) Wb 3 kg x20;3
+37066;174;92;28/10/2025 11:30;Circuito de fuerza x 3;Fuerza;;;;5;;;;;;False;;;;[12];cals;5. 12 cals sk;3
+37154;706;6;03/11/2025 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+37360;705;10;21/11/2025 8:30;Circuito 1: Activación x 3 series;Activación;3.0;;;4;;;;[15];[15];False;;;;[15];kcal;4) 15 kcalremo;3
+37386;564;74;Por programar;Circuito 1: Activación x 3 series;Activación;3.0;;;4;;;;[15];[15];False;;;;[15];kcal;4) 15 kcalremo;3
+37431;706;10;21/11/2025 9:30;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;;;•;3
+37431;706;10;21/11/2025 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;;;;;;False;;;;;;•;3
+37431;706;10;21/11/2025 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;;;;;;False;;;;;;•;3
+37431;706;10;21/11/2025 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+37431;706;10;21/11/2025 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;8;;;;;;False;;;;;;•;3
+37540;71;147;Por programar;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];saltos;2. 8 saltos a 60;3
+37542;71;149;Por programar;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+37546;62;165;06/11/2025 10:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+37793;337;147;10/11/2025 8:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+37875;155;227;11/11/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+37926;337;149;12/11/2025 8:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+38107;33;200;06/11/2025 9:00;"Circuito 3. Met: Completa el WOD Lumberjack en menos de 25""";;;;;12;;;;;;False;;;;[20];Saltos;20 Saltos a 60;3
+38124;232;103;20/11/2025 19:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+38126;232;105;27/11/2025 19:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+38131;337;152;18/11/2025 8:00;EMOM 12';;;emom;;2;;;;;;False;;;;;;2. Descanso;3
+38131;337;152;18/11/2025 8:00;EMOM 12';;;emom;;4;;;;;;False;;;;;;4. Descanso;3
+38166;722;7;09/12/2025 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+38178;354;154;14/11/2025 16:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+38979;551;56;04/12/2025 19:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+39035;62;175;02/12/2025 9:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+39158;684;22;Por programar;Circuito 4: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+39353;729;2;12/11/2025 10:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+39355;729;4;24/11/2025 10:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+39440;62;177;05/12/2025 9:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+39455;193;179;15/12/2025 7:00;Circuito 3: CORE x 3;Core;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+39458;196;109;04/12/2025 18:30;Circuito 3: Met Thruster therapy 10’ 10-1/9-2/8-3/7-4…1-10 40Kg en barra + Cajón 45cm;;;Esquema 10-1-9-2-8-3-7-4;;6;;;;;;False;;;;;;…;3
+39538;729;10;15/12/2025 10:30;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;;;•;3
+39538;729;10;15/12/2025 10:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;;;;;;False;;;;;;•;3
+39538;729;10;15/12/2025 10:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;;;;;;False;;;;;;•;3
+39538;729;10;15/12/2025 10:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+39538;729;10;15/12/2025 10:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;7;;;;;;False;;;;;;•;3
+39551;731;14;29/12/2025 16:30;Circuito 3. Fuerza x 3 series;Fuerza;3.0;;;4;;;;;;False;;;;;;•;3
+39662;736;8;09/12/2025 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+39675;730;12;22/12/2025 20:30;Circuito 2: x3 series;;3.0;;;6;;;;;;False;;;;;;•;3
+39864;60;133;17/12/2025 17:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+39871;163;134;11/12/2025 9:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+39873;163;136;19/12/2025 9:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+39881;247;108;29/12/2025 17:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;;;;;[12];False;;;;;;Kg x 12Reps;3
+39897;184;118;17/02/2026 17:00;Circuito 3: CORE x 3;Core;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+39940;337;163;09/12/2025 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+39957;204;141;12/12/2025 16:30;Circuito 3: Metabólico 50/50 5';Metabólico;;Esquema 50-50;;2;;;;;;False;;;;[50];saltos;1. 50 saltos a 45;3
+39967;415;112;Por programar;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+40007;285;171;12/12/2025 19:00;Circuito 3: Metabólico 50/50 5';Metabólico;;Esquema 50-50;;2;;;;;;False;;;;[50];saltos;1. 50 saltos a 45;3
+40099;436;121;03/12/2025 17:00;METABOLICO (PIRAMIDE ASCENDENTE): 6';Metabolico;;;;1;;;;;;False;[6];;;;;6';3
+41036;240;122;Por programar;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+41065;510;96;19/12/2025 19:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];saltos;2. 8 saltos a 60;3
+41268;240;124;Por programar;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+41272;44;133;29/12/2025 10:00;Circuito 3: Metabólico 50/50 5';Metabólico;;Esquema 50-50;;2;;;;;;False;;;;[50];saltos;1. 50 saltos a 45;3
+41288;510;98;26/12/2025 19:00;Circuito 3: 21-15-9 10 Minutos;;;Esquema 21-15-9;10.0;1;;;;;[15-9];False;;;;[10];Min;21-15-9 10 Minutos;3
+41295;399;136;02/02/2026 16:00;Circuito 3: CORE x 3;Core;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+41513;752;10;19/01/2026 7:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;6;;;;;;False;;;;;;•;3
+41513;752;10;19/01/2026 7:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;7;;;;;;False;;;;;;•;3
+41518;753;1;03/12/2025 10:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+41524;753;5;22/12/2025 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+41525;753;6;26/12/2025 10:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+41526;753;7;29/12/2025 10:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+41580;232;115;05/02/2026 19:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];saltos;2. 8 saltos a 60;3
+41582;232;117;12/02/2026 19:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+41695;441;109;23/12/2025 11:30;Circuito 1: Activación x 2 (SOLO 2);Activación;;;;5;;;;;;False;;;;[3];min;4) 3 min a 8;3
+41699;604;63;07/01/2026 9:00;Circuito 1: Activación x 3;Activación;;;;5;;;;;;False;;;;[3];min;4) 3 min a 9;3
+41748;155;251;09/01/2026 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+41820;337;173;09/01/2026 8:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];saltos;2. 8 saltos a 60;3
+41891;354;166;26/12/2025 16:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+42066;485;90;14/01/2026 8:00;Circuito 3: 21-15-9 11 mins;;;Esquema 21-15-9;11.0;1;;;;;;False;;;;[11];mins;21-15-9 11 mins;3
+42257;337;175;13/01/2026 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+42360;700;26;16/01/2026 10:00;Circuito 3: 21-15-9 11 mins;;;Esquema 21-15-9;11.0;1;;;;;;False;;;;[11];mins;21-15-9 11 mins;3
+42412;62;187;08/01/2026 9:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+42423;627;40;15/01/2026 10:00;Circuito 3: 21-15-9 11 mins;;;Esquema 21-15-9;11.0;1;;;;;;False;;;;[11];mins;21-15-9 11 mins;3
+42536;155;256;19/01/2026 8:00;"Circuito 3: 3Rounds 50"" ON 10"" OFF";;;;;4;;;;;;False;;;;;;3.;3
+42642;534;100;09/01/2026 18:00;METCON AFAP;Metcon;;;;1;;;;;;False;;;;[40];saltos;1) 40 saltos a 45;3
+42644;62;189;13/01/2026 9:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+42770;761;1;19/12/2025 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+42774;761;5;12/01/2026 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+42775;761;6;14/01/2026 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;;;;;;False;;;;;;•;3
+42816;178;142;26/02/2026 12:00;Circuito 3: CORE x 3;Core;;;;3;;;;;[8];False;;;;;;2. 8 Vs;3
+42941;523;137;14/01/2026 7:00;Circuito 3: 15-10-5-10-15 12';;;Esquema 15-10-5-10-15;;1;;;;;[10-5-10-15];False;[12];;;;;15-10-5-10-15 12';3
+43043;695;15;27/01/2026 20:00;Circuito 3: 21-15-9 11 mins;;;Esquema 21-15-9;11.0;1;;;;;;False;;;;[11];mins;21-15-9 11 mins;3
+43825;768;7;26/01/2026 9:00;Circuito 3: 21-15-9 12 mins;;;Esquema 21-15-9;12.0;1;;;;;;False;;;;[12];mins;21-15-9 12 mins;3
+43829;768;11;18/02/2026 9:00;Circuito 3: 21-15-9;;;Esquema 21-15-9;;1;;;;;;False;;;;;;21-15-9;3
+43833;768;15;04/03/2026 9:00;Circuito 3: 21-15-9 9 mins;;;Esquema 21-15-9;9.0;1;;;;;;False;;;;[9];mins;21-15-9 9 mins;3
+43837;768;19;Por programar;Circuito 3: 21-15-9 10 mins;;;Esquema 21-15-9;10.0;1;;;;;;False;;;;[10];mins;21-15-9 10 mins;3
+43842;627;44;10/02/2026 10:00;Circuito 3: 21-15-9 11 mins;;;Esquema 21-15-9;11.0;1;;;;;;False;;;;[11];mins;21-15-9 11 mins;3
+43846;627;48;26/02/2026 10:00;Circuito 3: 21-15-9 9 mins;;;Esquema 21-15-9;9.0;1;;;;;;False;;;;[9];mins;21-15-9 9 mins;3
+43850;627;52;12/03/2026 10:00;Circuito 3: 21-15-9 10 mins;;;Esquema 21-15-9;10.0;1;;;;;;False;;;;[10];mins;21-15-9 10 mins;3
+43854;620;61;02/02/2026 11:30;Circuito 3: 21-15-9 11 mins;;;Esquema 21-15-9;11.0;1;;;;;;False;;;;[11];mins;21-15-9 11 mins;3
+43858;620;65;23/02/2026 11:30;Circuito 3: 21-15-9 11 mins;;;Esquema 21-15-9;11.0;1;;;;;;False;;;;[11];mins;21-15-9 11 mins;3
+43862;620;69;09/03/2026 11:30;Circuito 3: 21-15-9 9 mins;;;Esquema 21-15-9;9.0;1;;;;;;False;;;;[9];mins;21-15-9 9 mins;3
+43866;620;73;Por programar;Circuito 3: 21-15-9 10 mins;;;Esquema 21-15-9;10.0;1;;;;;;False;;;;[10];mins;21-15-9 10 mins;3
+43872;700;30;30/01/2026 10:00;Circuito 3: 21-15-9 11 mins;;;Esquema 21-15-9;11.0;1;;;;;;False;;;;[11];mins;21-15-9 11 mins;3
+43876;700;34;16/02/2026 10:00;Circuito 3: 21-15-9 9 mins;;;Esquema 21-15-9;9.0;1;;;;;;False;;;;[9];mins;21-15-9 9 mins;3
+43880;700;38;02/03/2026 10:00;Circuito 3: 21-15-9 10 mins;;;Esquema 21-15-9;10.0;1;;;;;;False;;;;[10];mins;21-15-9 10 mins;3
+43982;191;160;02/03/2026 16:30;METABOLICO (PIRAMIDE ASCENDENTE): 6';Metabolico;;;;1;;;;;;False;[6];;;;;6';3
+44014;475;108;22/01/2026 19:00;METCON AFAP Reparte como quieras;Metcon;;;;1;;;;;;False;;;;[40];saltos;1) 40 saltos a 45;3
+44276;562;92;11/02/2026 9:00;Circuito 3: 21-15-9 11 mins;;;Esquema 21-15-9;11.0;1;;;;;;False;;;;[11];mins;21-15-9 11 mins;3
+44282;562;98;04/03/2026 9:00;Circuito 3: 21-15-9 11 mins;;;Esquema 21-15-9;11.0;1;;;;;;False;;;;[11];mins;21-15-9 11 mins;3
+44288;562;104;Por programar;Circuito 3: 21-15-9 9 mins;;;Esquema 21-15-9;9.0;1;;;;;;False;;;;[9];mins;21-15-9 9 mins;3
+44319;485;94;28/01/2026 8:00;Circuito 3: 21-15-9 11 mins;;;Esquema 21-15-9;11.0;1;;;;;;False;;;;[11];mins;21-15-9 11 mins;3
+44323;485;98;11/02/2026 8:00;Circuito 3: 21-15-9 9 mins;;;Esquema 21-15-9;9.0;1;;;;;;False;;;;[9];mins;21-15-9 9 mins;3
+44327;485;102;02/03/2026 8:00;Circuito 3: 21-15-9 10 mins;;;Esquema 21-15-9;10.0;1;;;;;;False;;;;[10];mins;21-15-9 10 mins;3
+44382;471;113;28/01/2026 20:00;Circuito 3: 21-15-9 10';;;Esquema 21-15-9;;1;;;;;[15-9];False;[10];;;;;21-15-9 10';3
+44391;60;145;09/02/2026 17:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+44421;510;108;10/02/2026 12:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+44424;510;110;17/02/2026 12:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+44700;155;263;30/01/2026 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+44781;773;10;11/02/2026 19:30;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;[15];[15];False;;;;[15];kcal;4) 15 kcalremo;3
+44825;354;176;28/01/2026 16:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+44828;354;178;05/02/2026 8:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+44889;646;55;24/02/2026 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;;;;;;False;;;;;;3);3
+44891;646;57;03/03/2026 9:30;Circuito 1: Activación x 3 series;Activación;3.0;;;4;;;;;;False;;;;;;4);3
+44906;22;160;23/02/2026 7:00;"EMOM: 1+1; 2+2; 3+3.....";;;emom;;1;;;;;;False;;;;;;"1+1; 2+2; 3+3.....";3
+45028;337;187;03/02/2026 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+45035;62;201;10/02/2026 9:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+45049;44;149;23/02/2026 20:30;Circuito 1: Activación x 2;Activación;;;;2;;;;;;False;;;;;;series;3
+45659;399;140;11/02/2026 17:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;;;5.;3
+46081;155;273;20/02/2026 8:00;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];salto;2. 8 salto a 60;3
+46083;155;275;24/02/2026 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+46089;504;173;23/02/2026 19:30;Circuito 3: Metabólico 50/50 5';Metabólico;;Esquema 50-50;;2;;;;;;False;;;;[50];saltos;1. 50 saltos a 45;3
+46101;33;250;25/02/2026 9:00;Circuito 3: Met Thruster therapy 10’ 10-1/9-2/8-3/7-4…1-10 40Kg en barra + Cajón 45cm;;;Esquema 10-1-9-2-8-3-7-4;;6;;;;;;False;;;;;;…;3
+46218;481;152;18/02/2026 17:00;METCON 4 time 3 rondas TC 15`;Metcon;;;;3;;;;;;False;;;;[10];saltos;3) 10 saltos a 45;3
+46263;654;48;17/02/2026 10:00;Circuito 2 de fuerza x3;Fuerza;;;;5;;;;;;False;;;;[14];cals;5. 14 cals en;3
+46386;184;122;10/03/2026 17:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;;;;;;False;;;;;;5.;3
+46468;337;197;27/02/2026 8:30;Circuito 3: EMOM 9';;;emom;;3;;;;;;False;;;;[8];saltos;2. 8 saltos a 60;3
+46513;163;155;10/03/2026 9:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+46666;475;117;24/02/2026 19:00;METCON 4 time 3 rondas TC 15`;Metcon;;;;3;;;;;;False;;;;[10];saltos;3) 10 saltos a 45;3
+46702;337;199;03/03/2026 8:00;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+46948;160;161;03/03/2026 8:30;Circuito 1: Activación x 2 series;Activación;2.0;;;5;;;;;;False;;;;;;5.;3
+47050;471;122;02/03/2026 20:00;Circuito 3: 15-10-5-10-15 12';;;Esquema 15-10-5-10-15;;1;;;;;[10-5-10-15];False;[12];;;;;15-10-5-10-15 12';3
+47122;354;190;Por programar;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+47816;62;213;10/03/2026 9:30;Circuito 3: 21-15-9 8 Minutos;;;Esquema 21-15-9;8.0;1;;;;;[15-9];False;;;;[8];Min;21-15-9 8 Minutos;3
+48124;153;148;12/03/2026 8:00;Circuito 3: EMOM 16´;;;emom;;5;;;;;;False;;;;;;4) REST;3
+48207;276;211;13/03/2026 10:00;Circuito 3: 3 vueltas < 8 mins;;;;8.0;1;;;;;[3];False;;;;[8];mins;3 vueltas < 8 mins;3

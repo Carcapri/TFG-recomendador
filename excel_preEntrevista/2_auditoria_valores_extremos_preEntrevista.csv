@@ -1,0 +1,316 @@
+﻿id;customer_id;counter;hour_date;circuito;tipo_circuito;series_circuito;formato_circuito;minutos_circuito;orden_ejercicio;ejercicio_limpio;ejercicio_2;ejercicio_3;peso_kg;repeticiones;por_lado;tiempo_iso_seg;rir;color_goma;cantidad_otra_unidad;tipo_otra_unidad;ejercicio_bruto;utilidad
+355;56;17;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;triceps overhead;;;[17.5, 320];[12, 10];False;;;;;;4) triceps overhead 17,5 x12. Serie 2 y 320x10;2
+587;149;3;11/07/2024 19:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;Bíceps hombro en extensión exc;;;[710];[8];False;[1];;;;;5) Bíceps hombro en extensión 1”iso 1” exc 710kg x8;2
+689;132;12;19/08/2024 8:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;Alt saltos desde zancada +ktb;;;[412];[12];True;;;;;;3) Alt saltos desde zancada +2 ktb 412x12 x pierna;2
+907;155;9;01/08/2024 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Remo mancuerna;;;[30, 32.5, 355];[12, 9, 6];False;;;;;;"1) Remo mancuerna 30x12; 32,5x9; 355x6";2
+913;155;15;12/08/2024 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Remo mancuerna;;;[32.5, 355, 355];[10, 6, 6];False;;;;;;1) Remo mancuerna 32,5x10. Serie 2 y 3 355x6;2
+919;155;21;02/09/2024 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Remo mancuerna;;;[32.5, 355, 355];[10, 6, 6];False;;;;;;1) Remo mancuerna 32,5x10. Serie 2 y 3 355x6;2
+1460;43;2;26/07/2024 10:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Remo barra;;;[20, 3235];[12, 8];False;;;;;;2) Remo barra 20x12. Serie 2 y 3235x8;2
+1614;179;6;02/08/2024 11:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Press banca;;;[15, 320];[12, 10];False;;;;;;2) Press banca 15 x12. Serie 2 y 320x10;2
+2338;256;3;29/07/2024 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[60, 70];[5012, 10, 8];False;;;;;;"2) Hip thrust x5012.60x10; 70x8";2
+2631;170;19;10/10/2024 10:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Remo barra;;;[30, 3350];[12, 6];False;;;;;;2) Remo barra 30x12. Serie 3350x6;2
+3205;272;9;05/09/2024 17:00;Circuito 1: Activación x 3 series;Activación;3.0;;;3;rotación externa;;;;[108];True;;;[roja];;;3) rotación externa goma roja 108 x lado;2
+3208;272;12;17/09/2024 16:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Jalón al pecho;;;[25, 2275, 2275];[12, 8, 8];False;;;;;;4) Jalón al pecho 25kgx12. Serie 2 y 3 2275x8;2
+3290;276;5;19/08/2024 10:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Press de banca;;;[25, 330];[12, 8];False;;;;;;"2) Press de banca 25x12; serie 2 y 330kg x8";2
+3371;287;3;19/08/2024 20:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;Jalón al pecho;;;[40, 345];[10, 6];False;;;;;;3) Jalón al pecho 40x10. Serie 345x6;2
+3399;296;2;22/08/2024 21:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Subida a 45cm;;;;[106];True;;;;;;2) Subida a 45 cms 106 x pierna;2
+3423;199;11;29/08/2024 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Dl :;;;[305, 305, 40];[10, 10, 5];False;;;;;;1) Dl305x10. Series 3: 40x5;2
+3486;151;11;10/09/2024 7:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Jalón al pecho;;;[22.5];[120];False;;;;;;4) Jalón al pecho 22,5 x120;2
+3598;302;10;26/09/2024 17:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[55, 60];[5012, 10, 8];False;;;;;;"2) Hip thrust x5012.55x10; 60x8";2
+3657;303;7;17/09/2024 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Clean and jerk;;;[712.5];[8];True;;;;;;4) Clean and jerk uni 712,5 x8 x lado;2
+3685;202;24;15/10/2024 21:00;"Circuito 3: Metabólico: 500 metros en airbike; 300remo; 400 ski en menos de 7 minutos";Metabólico;;;7;3;ski en menos;;;;[400];False;;;;[7];min;400 ski en menos de 7 minutos;2
+3689;202;28;29/10/2024 21:00;"Circuito 3: Metabólico: 400 metros en airbike; 500remo; 400 ski en menos de 7 minutos";Metabólico;;;7;3;ski en menos;;;;[400];False;;;;[7];min;400 ski en menos de 7 minutos;2
+3693;202;32;12/11/2024 21:00;"Circuito 3: Metabólico: 500 metros en airbike; 500remo; 500 ski en menos de 7 minutos";Metabólico;;;7;3;ski en menos;;;;[500];False;;;;[7];min;500 ski en menos de 7 minutos;2
+3697;198;17;19/09/2024 19:30;"Circuito 3: aeróbico: 300 metros en ski; 400airbike; 500 remo sin tiempo";;;;;1;aeróbico: en ski 400airbike remo sin tiempo;;;;[500];False;;;;[300];metros;"aeróbico: 300 metros en ski; 400airbike; 500 remo sin tiempo";2
+3701;198;21;03/10/2024 19:30;"Circuito 3: aeróbico: 400 metros en ski; 500airbike; 400 remo <8´";;;;;1;aeróbico: en ski 500airbike remo ';;;;[400];False;[8];;;[400];metros;"aeróbico: 400 metros en ski; 500airbike; 400 remo <8´";2
+3705;198;25;22/10/2024 19:30;"Circuito 3: aeróbico: 500 metros en ski; 500airbike; 500 remo <8´";;;;;1;aeróbico: en ski 500airbike remo ';;;;[500];False;[8];;;[500];metros;"aeróbico: 500 metros en ski; 500airbike; 500 remo <8´";2
+4062;317;1;02/09/2024 21:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press banca;;;[15];[120];False;;;;;;1) Press banca 15x120;2
+4142;314;16;28/10/2024 18:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[55, 60];[5012, 10, 8];False;;;;;;"2) Hip thrust x5012.55x10; 60x8";2
+4246;318;9;07/10/2024 17:00;Circuito 1: Activación x 3 series;Activación;3.0;;;3;rotación externa;;;;[108];True;;;[roja];;;3) rotación externa goma roja 108 x lado;2
+4248;318;12;16/10/2024 17:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Jalón al pecho;;;[25, 2275, 2275];[12, 8, 8];False;;;;;;4) Jalón al pecho 25kgx12. Serie 2 y 3 2275x8;2
+4453;339;6;27/09/2024 7:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Dl;;;[20, 25, 350];[10, 7, 4];False;;;;;;"1) Dl 20x10; 25x7;350x4";2
+4472;348;10;11/11/2024 20:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[55, 60];[5012, 10, 8];False;;;;;;"2) Hip thrust x5012.55x10; 60x8";2
+4568;343;3;16/09/2024 19:00;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;1;Sentadilla barra;;;[25, 30, 325];[12, 10, 8];False;;;;;;"1) Sentadilla barra25x12; 30x10;325x8";2
+4571;343;6;25/09/2024 18:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[40, 50];[3012, 10, 8];False;;;;;;"2) Hip thrust x3012.40x10; 50x8";2
+4574;343;9;07/10/2024 18:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL hex;;;[405, 60];[12, 9];False;;;;;;"1) DL hex 405x12; 50x9 60x6";2
+4600;306;6;25/09/2024 10:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[25, 30];[2012, 10, 8];False;;;;;;"2) Hip thrust x2012.25x10; 30x8";2
+5128;134;30;03/10/2024 9:00;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;1;snatch;;;[712.5];[8];True;;;;;;1) snatch 712,5 kg x8 x lado;2
+5141;155;33;23/09/2024 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL hex;;;[850, 90, 100];[10, 7, 4];False;;;;;;"1)DL hex 850x10; 90x7; 100x4";2
+5162;283;9;30/09/2024 21:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL;;;[650, 75, 85];[10, 7, 4];False;;;;;;"1)DL650x10; 75x7; 85x4";2
+5233;294;17;29/10/2024 10:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Hip thrust;;;[45];[810];False;;;;;;1) Hip thrust 45x810;2
+5403;381;3;01/10/2024 8:00;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;1;Sentadilla barra;;;[25, 30, 325];[12, 10, 8];False;;;;;;"1) Sentadilla barra25x12; 30x10;325x8";2
+5406;381;6;10/10/2024 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[40, 50];[3012, 10, 8];False;;;;;;"2) Hip thrust x3012.40x10; 50x8";2
+5416;381;16;19/11/2024 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;remo mancuerna;;;[17.5, 3120];[10, 8];False;;;;;;4) remo mancuerna 17,5kgx10. Serie 2 y 3120 x8;2
+5456;386;9;24/10/2024 17:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Dl;;;[16, 325];[10, 6];False;;;;;;"1) Dl 16x10; Serie 2 y 325 x6";2
+5521;391;4;09/10/2024 10:00;Circuito 1: Activación x 3 series;Activación;3.0;;;1;Buenos días;;;[5, 310];[12, 8];False;;;;;;1) Buenos días 5kg x 12. Serie 2 y 310kg x8;2
+5557;395;4;03/10/2024 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;pájaros;;;[2.5];[120];False;;;;;;3) pájaros 2,5 kg x 120;2
+5608;330;12;03/10/2024 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL hex;;;[850, 90, 100];[10, 7, 4];False;;;;;;"1)DL hex 850x10; 90x7; 100x4";2
+5619;401;10;22/10/2024 20:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[35, 40];[3012, 10, 8];False;;;;;;"2) Hip thrust x3012.35x10; 40x8";2
+6368;315;16;05/11/2024 17:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL;;;[35, 340];[12, 8];False;;;;;;1) DL 35kg x12. Series 340x8;2
+6439;260;44;22/11/2024 7:30;"Circuito 3: Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";;;;;1;Aeróbico largo remo airbike ski remo airbike ski;;;;[300];False;;;;[500, 400, 350, 250, 150];m, m, m, m, m;"Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";2
+6573;23;23;16/10/2024 7:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;• Press mancuerna y :;;;[7.5, 710, 710];[12, 8, 8];True;;;;;;• 1) Press mancuerna uni 7,5x12. Series 2 y 3: 710x8;2
+6636;284;25;15/10/2024 20:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Remo mancuerna;;;[335];[10];False;;;;;;4) Remo mancuerna 335x10;2
+6704;193;36;18/10/2024 7:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;Zancada estática;;;[435, 40, 45];[10, 8, 6];False;;;;;;"3) Zancada estática 435x10; 40x8; 45x6";2
+6711;173;17;22/10/2024 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;en cada máquina alternando;;;;[400];False;;;;;;5) 400 en cada máquina alternando;2
+7144;154;28;30/10/2024 7:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[1300];[10];False;;;;;;2) Hip thrust 1300x10;2
+7378;449;4;31/10/2024 17:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[25, 30];[2012, 10, 8];False;;;;;;"2) Hip thrust x2012.25x10; 30x8";2
+7709;459;12;20/11/2024 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[35, 40];[3012, 10, 8];False;;;;;;"2) Hip thrust x3012.35x10; 40x8";2
+7722;454;10;27/11/2024 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[35, 40];[3012, 10, 8];False;;;;;;"2) Hip thrust x3012.35x10; 40x8";2
+7998;302;21;04/11/2024 21:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Leg extensión;;;[45];[110];False;[2];;;;;"4) Leg extensión x110 2"" iso 45kg";2
+8093;383;7;04/11/2024 9:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;hip thrust;;;[50, 60, 760];[10, 8, 6];False;;;;;;"1) hip thrust 50x10; 60x8;760x6";2
+8108;357;7;05/11/2024 18:00;Circuito 1: Activación x 3 series;Activación;3.0;;;1;Buenos días;;;[5];[103];False;[103];;;;;"1) Buenos días 5 kg x 103"" iso";2
+8171;428;7;06/11/2024 19:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Triceps polea alta;;;[9, 714, 714];[12, 10, 10];False;;;;;;4) Triceps polea alta 9x12. Serie 2 y 3 714x10;2
+8622;473;6;27/11/2024 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;Leg extensión exc;;;[335];[10];False;[2];;;;;3) Leg extensión 335 x10 2” exc;2
+8716;202;35;26/11/2024 21:00;"Circuito 3: ML 500 metros en airbike; 300remo; 300 ski en menos de 5 minutos";;;;5;1;ML en airbike 300remo ski en menos;;;;[300];False;;;;[500, 5];metros, min;"ML 500 metros en airbike; 300remo; 300 ski en menos de 5 minutos";2
+8718;202;39;03/12/2024 21:00;"Circuito 3: ML 500 metros en airbike; 350remo; 350 ski en menos de 5´30”";;;;;1;ML en airbike 350remo ski en menos;;;;[350];False;[30];;;[500];metros;"ML 500 metros en airbike; 350remo; 350 ski en menos de 5´30”";2
+8723;202;43;19/12/2024 21:00;"Circuito 3: ML 500 metros en airbike; 400remo; 400 ski en menos de 5 minutos";;;;5;1;ML en airbike 400remo ski en menos;;;;[400];False;;;;[500, 5];metros, min;"ML 500 metros en airbike; 400remo; 400 ski en menos de 5 minutos";2
+8726;202;47;07/01/2025 21:00;"Circuito 3: ML 500 metros en airbike; 450remo; 450 ski en menos de 6´30”";;;;;1;ML en airbike 450remo ski en menos;;;;[450];False;[30];;;[500];metros;"ML 500 metros en airbike; 450remo; 450 ski en menos de 6´30”";2
+8874;132;35;06/11/2024 8:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL;;;[100, 115, 1300];[12, 9, 6];False;;;;;;"1) DL 100x12; 115x9; 1300x6";2
+9236;155;56;11/11/2024 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Hip thrust máquina80kh;;;[80, 90, 810];[12, 10, 8];False;;;;;;"1) Hip thrust máquina x12 80kh; 90x10; 810x8";2
+9237;283;21;11/11/2024 21:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Hip thrust máquina80kh;;;[80, 90, 810];[12, 10, 8];False;;;;;;"1) Hip thrust máquina x12 80kh; 90x10; 810x8";2
+9239;60;32;11/11/2024 17:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Hip thrust máquina80kh;;;[80, 90, 810];[12, 10, 8];False;;;;;;"1) Hip thrust máquina x12 80kh; 90x10; 810x8";2
+9242;24;38;11/11/2024 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL srtie;;;[50];[10, 608];False;;;;;;"1) DL 50x10; 608 srtie 2 y 3";2
+9266;172;31;12/11/2024 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL srtie;;;[50];[10, 608];False;;;;;;"1) DL 50x10; 608 srtie 2 y 3";2
+9274;62;38;13/11/2024 17:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Hip thrust máquina80kh;;;[80, 90, 810];[12, 10, 8];False;;;;;;"1) Hip thrust máquina x12 80kh; 90x10; 810x8";2
+9411;354;20;12/11/2024 10:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Hip thrust máquina60kh;;;[60, 70, 800];[12, 10, 8];False;;;;;;"1) Hip thrust máquina x12 60kh; 70x10; 800x8";2
+9435;132;40;14/11/2024 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Hip thrust máquina120kh;;;[120, 1350, 150];[12, 10, 8];False;;;;;;"1) Hip thrust máquina x12 120kh; 1350x10; 150x8";2
+9530;489;5;26/11/2024 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Triceps polea alta;;;[25, 732, 732];[12, 10, 10];False;;;;;;4) Triceps polea alta 25x12. Serie 2 y 3 732x10;2
+9537;62;42;21/11/2024 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL hex;;;[90, 110, 1300];[10, 6, 1];False;;;;;;"1) DL hex 90x10; 110x6; 1300x1";2
+9771;71;48;21/11/2024 20:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press banca si sale;;;[55, 65, 75];[10, 5, 1, 801];False;;;;;;"1) Press banca 55x10; 65x5; 75x1; 801 si sale";2
+9839;441;12;21/11/2024 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Jalón;;;[22.5];[210];False;;;;;;1) Jalón 22,5 kg x210;2
+9965;273;33;03/12/2024 18:30;Circuito 3: Aeróbico largo;;;;;1;ski – remo – powerbike – ski – remo;;;;[400];False;;;;[500, 700, 300, 350];m, m, m, m;400 ski – 500 m remo – 700 m powerbike – 300 m ski – 350 m remo;2
+10336;259;22;25/11/2024 16:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL srtie;;;[50];[10, 608];False;;;;;;"1) DL 50x10; 608 srtie 2 y 3";2
+10358;481;12;25/11/2024 20:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press banca;;;[325, 325, 37.5];[10, 10, 6];False;;;;;;1) Press banca 325x10. Serie 3 37,5x6;2
+10359;187;35;26/11/2024 17:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Jalón;;;[34];[210];False;;;;;;1) Jalón 34 kg x210;2
+10391;417;15;26/11/2024 7:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Hip thrust máquina80kh;;;[80, 90, 810];[12, 10, 8];False;;;;;;"1) Hip thrust máquina x12 80kh; 90x10; 810x8";2
+10465;250;37;28/11/2024 21:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;remo mancuerna;;;[10];[12, 510];False;;;;;;"2) remo mancuerna 10x12; 12,x510 serie 2 y 3";2
+10568;29;38;10/12/2024 20:00;Circuito 2: Fuerza x 3series;Fuerza;3.0;;;1;Hip thust;;;[70, 3805];[12, 8];False;;;;;;"1) Hip thust 70x12; serie.2 Y 3805x8";2
+10635;178;41;10/12/2024 12:00;Circuito 2: Fuerza x 3series;Fuerza;3.0;;;1;Hip thust;;;[70, 3805];[12, 8];False;;;;;;"1) Hip thust 70x12; serie.2 Y 3805x8";2
+10650;259;29;16/12/2024 16:30;Circuito 2: Fuerza x 3series;Fuerza;3.0;;;1;Hip thust;;;[70, 3805];[12, 8];False;;;;;;"1) Hip thust 70x12; serie.2 Y 3805x8";2
+10664;447;16;13/12/2024 7:30;Circuito 2: Fuerza x 3series;Fuerza;3.0;;;1;Hip thust;;;[50, 360];[12, 8];False;;;;;;"1) Hip thust 50x12; serie.2 Y 360x8";2
+10755;450;13;03/12/2024 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;remo mancuerna;;;[12.5, 1];[12, 510];False;;;;;;"2) remo mancuerna 12,5x12; 1x510 serie 2 y 3";2
+10770;293;20;27/12/2024 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;remo mancuerna;;;[10];[12, 510];False;;;;;;"2) remo mancuerna 10x12; 12,x510 serie 2 y 3";2
+10811;476;20;Por programar;Circuito 2: Fuerza x 3series;Fuerza;3.0;;;1;Hip thust;;;[60, 370];[12, 8];False;;;;;;"1) Hip thust 60x12; serie.2 Y 370x8";2
+10830;474;20;23/01/2025 16:00;Circuito 2: Fuerza x 3series;Fuerza;3.0;;;1;Hip thust;;;[60, 370];[12, 8];False;;;;;;"1) Hip thust 60x12; serie.2 Y 370x8";2
+10836;334;22;09/12/2024 20:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;remo mancuerna;;;[10];[12, 510];False;;;;;;"2) remo mancuerna 10x12; 12,x510 serie 2 y 3";2
+10906;153;35;03/12/2024 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Jalón;;;[32];[210];True;;;;;;1) Jalón uni 32 kg x210;2
+10921;441;16;05/12/2024 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Jalón;;;[22.5];[210];False;;;;;;1) Jalón 22,5 kg x210;2
+11170;57;53;03/12/2024 10:30;Circuito 2: Fuerza x 3series;Fuerza;3.0;;;1;Hip thust;;;[70, 3805];[12, 8];False;;;;;;"1) Hip thust 70x12; serie.2 Y 3805x8";2
+11194;55;35;09/12/2024 18:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL;;;[25, 32.5, 460];[10, 7, 4];False;;;;;;"1) DL 25x10; 32,5x7;460x4";2
+11206;55;47;03/02/2025 18:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Curl isquios máquina;;;[35, 35, 35];[1025, 1025, 6];True;;;;;;4) Curl isquios uni máquina x 1025. Serie 3 35x6;2
+11269;471;14;11/12/2024 20:30;Circuito 2: Fuerza x3 series;Fuerza;3.0;;;4;Jalón al pecho;;;[35];[120];False;;;;;;4)Jalón al pecho 35x120;2
+11382;448;20;22/01/2025 20:00;Circuito 1: Activación x 3 series;Activación;3.0;;;2;retracciones;;;;[812];False;;;;;;2)812 retracciones;2
+11684;43;36;20/01/2025 17:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;Jjacks las;;;;[130];False;;;;;;5)130 Jjacks las 3 series;2
+12295;48;50;02/12/2024 10:00;Circuito 3: TC 12' Acumula 300 reps de;;;;;1;TC Acumula de:;;;;[300];False;[12];;;;;TC 12' Acumula 300 reps de:;2
+12371;498;10;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[55, 60];[5012, 10, 8];False;;;;;;"2) Hip thrust x5012.55x10; 60x8";2
+12375;362;32;02/12/2024 18:30;Circuito 3: TC 12' Acumula 200 reps de;;;;;1;TC Acumula de:;;;;[200];False;[12];;;;;TC 12' Acumula 200 reps de:;2
+12405;71;54;04/12/2024 7:00;Circuito 3: TC 12' Acumula 200 reps de;;;;;1;TC Acumula de:;;;;[200];False;[12];;;;;TC 12' Acumula 200 reps de:;2
+12408;60;39;04/12/2024 17:30;Circuito 3: TC 12' Acumula 200 reps de;;;;;1;TC Acumula de:;;;;[200];False;[12];;;;;TC 12' Acumula 200 reps de:;2
+12571;239;50;10/02/2025 19:00;"Circuito 3: Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";;;;;1;Aeróbico largo remo airbike ski remo airbike ski;;;;[300];False;;;;[500, 400, 350, 250, 150];m, m, m, m, m;"Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";2
+12737;354;28;02/12/2024 8:00;Circuito 3: TC 12' Acumula 200 reps de;;;;;1;TC Acumula de:;;;;[200];False;[12];;;;;TC 12' Acumula 200 reps de:;2
+12800;503;12;21/01/2025 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Hip thrust máquina;;;[503];[12, 8];False;[3];;;;;1) Hip thrust máquina 40 3” iso x12. Serie  503 x8;2
+13079;388;18;07/01/2025 8:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;curl femoral;;;[30];[102];False;[102];;;;;"4. curl femoral 30x102"" iso";2
+13099;270;21;23/01/2025 7:00;Circuito 3: TC 12' Acumula 200 reps de;;;;;1;TC Acumula de:;;;;[200];False;[12];;;;;TC 12' Acumula 200 reps de:;2
+13241;155;77;20/12/2024 8:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+13355;277;67;24/01/2025 10:00;"Circuito 3: Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";;;;;1;Aeróbico largo remo airbike ski remo airbike ski;;;;[300];False;;;;[500, 400, 350, 250, 150];m, m, m, m, m;"Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";2
+13523;71;61;23/12/2024 16:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+13535;419;33;27/12/2024 18:00;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;2;Jerk barra y :;;;[20, 25, 25];[102, 7, 7];False;;;;;;2) Jerk barra 20 kg x 102. Series 2 y 3: 25 kg x 7;2
+13583;270;24;13/02/2025 7:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+13591;283;35;08/01/2025 21:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+13594;296;56;08/01/2025 20:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+13598;232;43;14/01/2025 19:30;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+13612;354;38;07/01/2025 18:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+13615;362;44;13/01/2025 18:30;Circuito 3: TC 15' Acumula 200 reps de;;;;;1;TC Acumula de:;;;;[200];False;[15];;;;;TC 15' Acumula 200 reps de:;2
+13850;356;42;06/03/2025 18:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Remo barra;;;[20, 325];[10, 8];False;;;;;;2) Remo barra 20x10. Serie 2 y 325x8;2
+14394;330;41;09/01/2025 20:30;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+14419;269;53;20/02/2025 9:30;"Circuito 3: Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";;;;;1;Aeróbico largo remo airbike ski remo airbike ski;;;;[300];False;;;;[500, 400, 350, 250, 150];m, m, m, m, m;"Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";2
+14435;315;42;28/02/2025 17:00;"Circuito 3: Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";;;;;1;Aeróbico largo remo airbike ski remo airbike ski;;;;[300];False;;;;[500, 400, 350, 250, 150];m, m, m, m, m;"Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";2
+14455;389;45;17/03/2025 17:00;"Circuito 3: Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";;;;;1;Aeróbico largo remo airbike ski remo airbike ski;;;;[300];False;;;;[500, 400, 350, 250, 150];m, m, m, m, m;"Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";2
+14477;364;47;25/03/2025 17:30;"Circuito 3: Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";;;;;1;Aeróbico largo remo airbike ski remo airbike ski;;;;[300];False;;;;[500, 400, 350, 250, 150];m, m, m, m, m;"Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";2
+14713;40;56;17/03/2025 10:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Dl sumo ktb;;;[16, 350];[12, 6];False;;;;;;"1) Dl sumo 2 ktb 16kgx12; serie 350x6";2
+14744;236;52;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;jumping jacks a repartir;;;;[750];False;;;;;;5) 750 jumping jacks a repartir;2
+14812;320;45;25/03/2025 20:00;"Circuito 3: Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";;;;;1;Aeróbico largo remo airbike ski remo airbike ski;;;;[300];False;;;;[500, 400, 350, 250, 150];m, m, m, m, m;"Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";2
+14830;409;43;11/03/2025 20:30;"Circuito 3: Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";;;;;1;Aeróbico largo remo airbike ski remo airbike ski;;;;[300];False;;;;[500, 400, 350, 250, 150];m, m, m, m, m;"Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";2
+14852;410;45;01/04/2025 10:30;"Circuito 3: Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";;;;;1;Aeróbico largo remo airbike ski remo airbike ski;;;;[300];False;;;;[500, 400, 350, 250, 150];m, m, m, m, m;"Aeróbico largo 500m remo; 400m airbike; 300 ski; 350m remo; 250m airbike; 150m ski";2
+15138;502;11;Por programar;Circuito 1: Activación x 3 series;Activación;3.0;;;1;retracciones;;;;[112];False;;;;;;112 retracciones;2
+15334;520;6;30/01/2025 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Jalón al pecho;;;[30, 325, 35];[10, 8, 6];False;;;;;;"2)Jalón al pecho 30x10; 325x8; 35x6";2
+15345;516;9;10/02/2025 20:00;Circuito 1: Activación x 3 series;Activación;3.0;;;3;rotación externa;;;;[810];True;;;[roja];;;3)  rotación externa goma roja x810x lado;2
+15349;516;13;27/02/2025 16:00;Circuito 1: Activación x 3 series;Activación;3.0;;;3;rotación externa;;;;[810];True;;;[roja];;;3)  rotación externa goma roja x810x lado;2
+15716;232;54;25/02/2025 19:30;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+15795;60;51;05/02/2025 17:30;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+15911;529;3;21/01/2025 18:00;Circuito 1: Activación x 3 series;Activación;3.0;;;5;deceleraciones;;;;[110];False;;;;;;5) 110 deceleraciones;2
+16113;531;10;11/02/2025 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[40, 50];[3012, 10, 8];False;;;;;;"2) Hip thrust x3012.40x10; 50x8";2
+16167;74;56;26/03/2025 20:00;"Circuito 3: Aeróbico largo 400m remo; 400m airbike; 300 ski; 200m remo; 200m airbike; 150m ski";;;;;1;Aeróbico largo remo airbike ski remo airbike ski;;;;[300];False;;;;[400, 200, 150];m, m, m;"Aeróbico largo 400m remo; 400m airbike; 300 ski; 200m remo; 200m airbike; 150m ski";2
+16399;249;47;05/02/2025 18:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press mancuernas;;;[7.5];[120];False;;;;;;1) Press mancuernas 7,5 kg x 120;2
+16837;70;69;23/04/2025 20:00;Circuito 3: Metabólico EMOM 9 min;Metabólico;;emom;9.0;2;remo trx;;;;[185];False;;;;;;1) 185 remo trx;2
+18409;544;6;13/02/2025 7:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Dl;;;[20, 25, 350];[10, 7, 4];False;;;;;;"1) Dl 20x10; 25x7;350x4";2
+18893;456;25;10/03/2025 19:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL;;;[35, 405, 45];[10, 7, 4];False;;;;;;"1) DL 35x10; 405x7; 45x4";2
+18970;362;57;17/02/2025 18:30;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+19003;240;54;18/02/2025 19:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+19095;155;104;21/02/2025 8:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+19585;565;10;26/03/2025 18:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[55, 60];[5012, 10, 8];False;;;;;;"2) Hip thrust x5012.55x10; 60x8";2
+19594;531;20;17/03/2025 16:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;Triceps polea alta;;;[24, 329];[12, 8];False;;;;;;3) Triceps polea alta 24 kg x12. Serie 329x8;2
+19698;561;7;04/03/2025 7:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Dl;;;[20, 25, 350];[10, 7, 4];False;;;;;;"1) Dl 20x10; 25x7;350x4";2
+19834;354;57;25/02/2025 8:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+20030;362;63;03/03/2025 18:30;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+20032;362;65;06/03/2025 18:30;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+20061;296;77;28/02/2025 19:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+20117;330;62;20/03/2025 20:30;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+20134;60;59;03/03/2025 17:30;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+20659;462;34;14/03/2025 12:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+20795;232;58;11/03/2025 19:30;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+20870;155;110;04/03/2025 8:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+21002;155;120;21/03/2025 8:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+21088;187;68;10/04/2025 17:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[70, 75];[6512, 10, 8];False;;;;;;"2) Hip thrust x6512; 70x10; 75x8";2
+21103;153;72;17/04/2025 9:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Prensa quads;;;[50, 565, 60];[12, 10, 8];True;;;;;;"4) Prensa quads uni 50x12;565x10; 60x8";2
+21245;554;11;21/03/2025 9:30;Circuito 3. Fuerza x 3 series;Fuerza;3.0;;;2;Jalón al pecho;;;[22.5, 325];[10, 8];False;;;;;;2) Jalón al pecho 22,5x10. Serie 2 y 325 x8;2
+21322;448;40;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Triceps polea alta;;;[24, 731, 731];[12, 10, 10];False;;;;;;4) Triceps polea alta 24x12. Serie 2 y 3 731x10;2
+21332;421;49;06/05/2025 19:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Hip thrust máquina;;;[70, 380];[12, 8];False;[3];;;;;1) Hip thrust máquina 3” iso 70x12. Serie 380 x8;2
+21359;546;15;01/04/2025 10:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;Prensa cuádriceps3;;;[20, 20, 6];[10, 10, 300];False;;;;;;3) Prensa cuádriceps x10 20kg. Serie 3 6x300;2
+22075;178;69;20/03/2025 12:00;"Circuito 3: MET Acumula en 8""";;;;;3;Subidas a 30cm;;;;[200];False;;;;;;2. 200 Subidas a 30cm;2
+22251;510;43;01/04/2025 8:30;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+22293;354;67;21/03/2025 8:30;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+22305;354;79;24/04/2025 18:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+22340;270;37;12/06/2025 7:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+22472;48;101;24/03/2025 9:00;"Circuito 3: MET Acumula en 8""";;;;;3;Subidas a 30cm;;;;[200];False;;;;;;2. 200 Subidas a 30cm;2
+22473;48;102;25/03/2025 9:00;"Circuito 3: MET Acumula en 8""";;;;;3;Subidas a 30cm;;;;[200];False;;;;;;2. 200 Subidas a 30cm;2
+22641;301;58;14/04/2025 21:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+22717;232;66;08/04/2025 19:30;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+22742;193;90;04/04/2025 7:00;"Circuito 3: MET Acumula en 8""";;;;;3;Subidas a 30cm;;;;[200];False;;;;;;2. 200 Subidas a 30cm;2
+22788;330;66;31/03/2025 17:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+22814;155;128;04/04/2025 8:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+22964;381;68;11/04/2025 8:00;Circuito de fuerza x3;Fuerza;;;;1;Peso muerto;;;[55, 360];[12, 8];False;;;;;;1. Peso muerto 55 x12. S 360 x8;2
+23238;276;102;25/04/2025 10:00;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;3;triceps hombro neutro;;;[2934];[10];False;;;;;;3) triceps hombro neutro 2934kgx10;2
+23391;149;97;09/04/2025 18:00;Circuito 3: TC 12' Acumula 120 reps de;;;;;1;TC Acumula de:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de:;2
+23432;30;70;21/04/2025 16:30;"Circuito 3: MET Acumula en 11""";;;;;3;Subidas a 30cm;;;;[200];False;;;;;;2. 200 Subidas a 30cm;2
+23507;330;78;13/05/2025 20:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+23553;154;87;06/05/2025 7:00;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+23636;60;70;09/04/2025 17:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+23749;234;63;07/05/2025 7:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press mancuernas;;;[15];[120];False;;;;;;1) Press mancuernas 15 kg x 120;2
+23898;546;19;22/04/2025 10:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;Prensa cuádriceps3;;;[20, 20, 6];[10, 10, 300];False;;;;;;3) Prensa cuádriceps x10 20kg. Serie 3 6x300;2
+23967;337;74;23/04/2025 8:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+24087;523;46;09/05/2025 7:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+24184;595;7;28/04/2025 9:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Jalón al pecho;;;[15, 320];[12, 8];False;;;;;;1) Jalón al pecho 15x12. Serie 320x8;2
+24184;595;7;28/04/2025 9:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[25, 350];[10, 8];False;;;;;;"2)Hip thrust 25x10;350x8 serie 2 y 3";2
+24535;71;98;24/04/2025 7:00;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+24554;510;55;08/05/2025 9:00;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+24855;136;45;14/10/2025 17:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Prensa quads;;;[40, 45, 560];[12, 10, 8];False;;;;;;"4) Prensa quads  40x12;45x10;560x8";2
+25517;60;82;29/05/2025 18:00;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+25758;582;28;16/06/2025 8:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Zancada barra y;;;[30, 335];[10, 8];False;;;;;;"2) Zancada barra30x10; serie 2 y 335 x8 x";2
+25866;314;75;16/07/2025 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press mancuerna :;;;[710, 710, 12.5];[12, 12, 6];True;;;;;;1) Press mancuerna uni 710 kg x 12 x lado. Serie 3: 12,5 kg x 6 x lado;2
+26341;276;119;23/06/2025 10:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Jalón;;;[40];[210];True;;;;;;1) Jalón uni 40 kg x210;2
+26358;22;86;18/06/2025 7:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Jalón;;;[49, 3540];[12, 8];True;;;;;;2) Jalón uni 49x12 xlado. Serie 2 y 3540x8;2
+26499;187;87;03/07/2025 17:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;Clean and jerk;;;[710];[10];True;;;;;;3) Clean and jerk uni 710 x10.;2
+26569;484;83;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;prensa quads;;;[30, 635, 40];[8, 6, 4];True;;;;;;"4) prensa quads uni 30x8; 635x6; 40x4";2
+26621;506;24;04/06/2025 19:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;cossaq squat barra15 y para hacer el al acabar;;;[15, 25, 3, 3];[8, 6, 500, 500];False;;;;[6];mins;4) cossaq squat barra15 x 8lado. 25x6 serie 2 y 3 6 mins para hacer el 3x500(al acabar);2
+26792;595;16;02/06/2025 9:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Hip thrust;;;[30];[810];False;;;;;;1) Hip thrust 30x810;2
+26795;595;19;11/06/2025 9:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Sentadilla safety;;;[330, 330];[12, 8];False;;;;;;"2) Sentadilla safety x12; serie 2 y 330x8";2
+27008;337;86;23/05/2025 8:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+27029;71;110;27/05/2025 20:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+27062;301;70;26/06/2025 16:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+27091;354;91;27/05/2025 16:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+27411;611;7;12/06/2025 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Dl;;;[20, 25, 350];[10, 7, 4];False;;;;;;"1) Dl 20x10; 25x7;350x4";2
+27471;232;78;12/06/2025 19:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+27614;619;12;07/07/2025 19:00;Circuito 1: Activación x 3 series;Activación;3.0;;;3;rotación externa;;;;[810];True;;;[roja];;;3)  rotación externa goma roja x810x lado;2
+27620;619;18;30/07/2025 19:00;Circuito 1: Activación x 3 series;Activación;3.0;;;3;rotación externa;;;;[810];True;;;[roja];;;3)  rotación externa goma roja x810x lado;2
+27796;523;58;06/06/2025 7:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+27932;296;109;11/06/2025 20:00;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+28834;337;98;23/06/2025 8:00;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+28876;354;103;30/06/2025 9:00;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+29229;71;122;11/07/2025 17:00;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+29297;565;33;30/06/2025 18:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Sentadilla safety;;;[330, 330];[12, 8];False;;;;;;"2) Sentadilla safety x12; serie 2 y 330x8";2
+29299;595;24;02/07/2025 9:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Sentadilla safety;;;[330, 330];[12, 8];False;;;;;;"2) Sentadilla safety x12; serie 2 y 330x8";2
+30037;134;185;11/08/2025 9:00;Circuito 3: For time 10 mins;;;;10.0;4;sentadillas;;;;[120];False;;;;;;120 sentadillas;2
+30432;207;83;10/09/2025 19:30;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;3;Remo Gironda y3;;;[445, 49];[12, 10];False;;;;;;"3) Remo Gironda 445x12; 49x10 serie 2 y3";2
+30462;303;100;07/08/2025 7:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Curl isquios;;;[1055];[1055];False;;;;;;2) Curl isquios x1055kg;2
+30495;639;25;17/11/2025 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Zancada barra y;;;[30, 335];[10, 8];False;;;;;;"2) Zancada barra30x10; serie 2 y 335 x8 x";2
+30499;639;29;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;• Press mancuerna;;;[12.5, 315];[10, 8];True;;;;;;"• 1) Press mancuerna uni  12,5 x10; serie 2 y 315x8";2
+30528;510;79;29/07/2025 8:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+30589;643;3;24/07/2025 17:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press mancuerna;;;[10, 312.5];[12, 10];True;;;;;;"1) Press mancuerna uni 10x12; serie 2 y 312,5x10";2
+30774;354;115;29/07/2025 8:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+31143;447;87;30/07/2025 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Remo barra;;;[35];[102];False;[102];;;;;"4) Remo barra 35 x 102"" iso";2
+31312;337;110;04/08/2025 8:00;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+31334;155;188;07/08/2025 8:00;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+31463;276;135;06/08/2025 10:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press banca;;;[32.5, 35, 375];[12, 10, 8];False;;;;;;"1) Press banca 32,5x12; 35x10; 375x8";2
+31465;71;134;19/09/2025 17:00;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+31653;655;5;07/08/2025 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Flexiones y;;;;[15, 310];False;;;[negra, roja];;;1) Flexiones goma negra x15.Serie 2 y 310 x goma roja;2
+31860;417;77;02/09/2025 19:00;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+31889;240;97;04/09/2025 20:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+32251;646;24;28/10/2025 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;remo mancuerna;;;[710, 15];[12, 8];False;;;;;;"2) remo mancuerna 710x12; 15x8 serie 2 y 3";2
+32284;270;47;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Remo TRX;;;;[123];False;[3];;;;;"4. Remo TRX 3"" iso x123""";2
+32286;270;49;Por programar;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+32524;573;65;21/10/2025 8:00;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;2;Remo desde caballero contralateral;;;;[810];True;[2];;;;;2) Remo uni 2” iso desde caballero contralateral iso 1” x810x lado;2
+32539;235;92;26/09/2025 17:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;curl femoral;;;[335];[10, 6];False;[3];;;;;4) curl femoral x10 3” iso 30. Serie 335 x6;2
+32549;235;102;05/11/2025 19:00;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;2;Remo desde caballero contralateral;;;[1022, 1022];[1022, 1022, 29-6];True;[2, 2];;;;;"2) Remo uni 2” iso desde caballero contralateral iso 1” x1022kg; serie 3 29-6x lado";2
+32565;441;93;28/10/2025 11:30;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;2;Remo desde caballero contralateral;;;[22];[810];True;[2];;;;;2) Remo uni 2” iso desde caballero contralateral iso 1” x810x lado 22kg;2
+32569;441;97;11/11/2025 11:30;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;2;Remo desde caballero contralateral;;;[102, 28, 28];[102, 6, 6];True;[2];;;;;"2) Remo uni 2” iso desde caballero contralateral iso 1” x102kg lado; serie 2 y 3 28x6";2
+32798;504;106;03/09/2025 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL;;;[60, 60, 60];[5010, 5010, 5];False;;;;;;1) DL x5010. Serie 3 60x 5;2
+32801;504;108;08/09/2025 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Hip thrust;;;[760, 80, 90];[12, 8, 4];False;;;;;;"4) Hip thrust760x12; 80x8; 90x4";2
+33095;456;56;24/11/2025 19:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Sentadilla y subida fuerte safety;;;[35, 340];[10, 8];False;[2];;;;;2) Sentadilla 2” iso y subida fuerte safety 35x10. Serie 2 y 340 x8;2
+33265;505;55;09/10/2025 9:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Seal row dbs7;;;[7.5, 310];[10, 6];False;[2];;;;;"1) Seal row 2 dbs7,5 kg x10 2” iso; serie 310 x6";2
+33290;565;47;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Dl;;;[35, 425, 50];[12, 8, 4];False;;;;;;"1) Dl 35x12; 425x8; 50x4";2
+33321;53;84;30/09/2025 8:30;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;2;Facepull max rom;;;[14, 319];[12, 8];False;[5];;;;;2) Facepull 5” iso max rom 14x12. Serie 2 y 319 x8;2
+33420;602;17;08/10/2025 20:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Flexiones;;;;[812];False;;;[roja];;;1) Flexiones goma roja x812;2
+33525;357;38;Por programar;Circuito 2: fuerza x 3 series;Fuerza;3.0;;;4;Hip thrust y335;;;[30, 335];[12, 8];False;;;;;;4) Hip thrust 30x 12. serie 2 y335 x8;2
+33568;581;56;05/12/2025 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;Remo polea desde 45cm;;;;[228];True;[2];;;;;3) Remo polea uni desde 45 cms x228 x lado 2” iso;2
+34313;354;139;10/10/2025 16:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+34321;337;122;17/09/2025 8:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+34386;350;133;20/10/2025 7:30;FUERZA X 3 SERIES;Fuerza;3.0;;;5;front jacks a repartir;;;;[150];False;;;;;;150 front jacks a repartir;2
+34448;232;90;02/10/2025 19:30;Circuito 3: TC 12' Acumula 120 reps de cada;;;;;1;TC Acumula de cada:;;;;[120];False;[12];;;;;TC 12' Acumula 120 reps de cada:;2
+34614;169;99;14/10/2025 16:30;FUERZA X 3 SERIES;Fuerza;3.0;;;5;front jacks a repartir;;;;[130];False;;;;;;130 front jacks a repartir;2
+34738;653;12;16/09/2025 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Remo trx;;;;[103];False;[103];;;;;"4) Remo trx x103"" iso;";2
+35237;680;14;06/11/2025 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Dl apoyo mínimo;;;[12];[10, 168, 168];True;;;;;;"1) Dl uni apoyo mínimo 12x10 x lado; serie 2 y 3 x168";2
+35796;686;9;27/10/2025 12:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Dl erie;;;[8, 12];[12, 120];False;;;;;;"1) Dl 8x12;s erie 2 y 3 12x120";2
+35882;541;55;10/11/2025 18:30;FUERZA X 3 SERIES;Fuerza;3.0;;;5;front jacks a repartir;;;;[150];False;;;;;;5. 150 front jacks a repartir;2
+36030;212;51;Por programar;Circuito de fuerza x 3;Fuerza;;;;1;Peso muerto ktb;;;[25];[110];False;;;;;;1. Peso muerto ktb 25k x 110;2
+36097;389;104;19/11/2025 17:00;FUERZA X 3 SERIES;Fuerza;3.0;;;5;front jacks a repartir;;;;[150];False;;;;;;5. 150 front jacks a repartir;2
+36173;694;11;12/11/2025 17:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[35, 40];[3012, 10, 8];False;;;;;;"2) Hip thrust x3012.35x10; 40x8";2
+36471;700;8;27/10/2025 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Sh press sentada mcs;;;[4];[120];False;;;;;;1) Sh press sentada 2 mcs 4kg x 120;2
+36538;658;20;15/10/2025 8:30;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;1;zancada lateral ktb;;;[8, 312, 16];[10, 8, 6];True;;;;;;"1) zancada lateral ktb 8kgx10 x pierna; 312x8; 16x6";2
+36583;455;72;17/10/2025 11:00;Circuito 2 de fuerza x3;Fuerza;;;;1;Remo mc;;;[17.5, 320];[12, 8];False;;;;;;1. Remo mc 17.5k x 12. S 320k x8;2
+36792;668;17;27/11/2025 17:30;FUERZA X 3 SERIES;Fuerza;3.0;;;5;front jacks a repartir;;;;[200];False;;;;;;5. 200 front jacks a repartir;2
+37295;530;45;05/11/2025 18:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press banca;;;[17.5, 17.5];[10, 10, 206];False;;;;;;"1) Press banca 17,5x10; serie 3 x206";2
+37379;710;9;10/11/2025 16:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL;;;[325];[10];False;;;;;;1) DL 325x10;2
+37857;36;92;28/11/2025 8:00;Circuito 2 de fuerza x3;Fuerza;;;;2;Flexiones en espladera exc;;;;[103];False;[103];;;;;2. Flexiones en espladera x 103” exc;2
+37860;694;12;24/11/2025 17:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Leg extensión y3;;;[10];[10, 158];True;[3];;;;;"2) Leg extensión uni 3” iso 10kg x10; x158 serie 2 y3";2
+37990;679;17;19/11/2025 21:00;FUERZA X 3 SERIES;Fuerza;3.0;;;5;front jacks a repartir;;;;[150];False;;;;;;5. 150 front jacks a repartir;2
+38508;653;30;20/11/2025 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Hip thrust;;;[500];[10];False;;;;;;1) Hip thrust500x10;2
+38552;235;107;21/11/2025 17:00;Circuito 3: Fuerza x 3 series;Fuerza;3.0;;;2;Remo desde caballero contralateral;;;[1022, 1022];[1022, 1022, 29-6];True;[2, 2];;;;;"2) Remo uni 2” iso desde caballero contralateral iso 1” x1022kg; serie 3 29-6x lado";2
+38912;155;236;27/11/2025 8:00;Circuito 3: TC 12' Acumula 110 reps de cada;;;;;1;TC Acumula de cada:;;;;[110];False;[12];;;;;TC 12' Acumula 110 reps de cada:;2
+39030;561;79;28/11/2025 7:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Remo mc;;;[17.5, 320];[12, 8];False;;;;;;"1) Remo mc 17,5x12; Serie 2 y 320x8";2
+39427;735;10;11/12/2025 20:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Hip thrust;;;[55, 60];[5012, 10, 8];False;;;;;;"2) Hip thrust x5012.55x10; 60x8";2
+39532;737;7;02/12/2025 10:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Flexionescms;;;;[1075];False;;;;;;2) Flexiones x1075 cms;2
+39715;699;16;11/02/2026 10:00;Circuito de fuerza;Fuerza;;;;1;Press banca;;;[15, 317.5];[12, 7];False;;;;;;1. Press banca 15k x12. S 317.5k x7;2
+39843;312;109;24/11/2025 17:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press banca;;;[25, 30, 350];[10, 5, 1];False;;;;;;"1) Press banca 25x10; 30x5;350x1";2
+40272;562;72;05/12/2025 9:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press banca;;;[15];[120];False;;;;;;1) Press banca 15x120;2
+40632;518;53;16/01/2026 17:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press banca c7;;;[7.5, 310];[12, 8];True;;;;;;1) Press banca uni c7,5 x 12 x lado. Serie 2 y 310x8;2
+40689;580;61;29/12/2025 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;Clean and jerk y :;;;[7.5, 710, 710];[12, 8, 8];True;;;;;;3) Clean and jerk uni 7,5x12. Series 2 y 3: 710x8;2
+41420;503;67;13/01/2026 18:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Hip thrust máquina;;;[503];[12, 8];False;[3];;;;;1) Hip thrust máquina 40 3” iso x12. Serie  503 x8;2
+41430;359;38;17/02/2026 18:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;5;Prensa quads 50x;;;[50, 70];[1260, 8];False;;;;;;"5) Prensa quads 50x1260x10; 70x8";2
+41510;752;9;14/01/2026 7:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press banca;;;[7.5, 310];[12, 8];True;;;;;;1) Press banca uni 7,5x12. Serie 2 y 310x8;2
+41883;749;6;17/12/2025 20:30;Circuito 2: fuerza x 3 series;Fuerza;3.0;;;1;"Sentadilla 80º safety""";;;[10, 10];[102, 8, 8];False;[102, 2, 2];;;;;"1) Sentadilla 80º safety x102"" iso ; serie 2 y 3 +10kg x8 2"" iso";2
+42491;50;97;19/01/2026 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Hip thrust;;;[50, 60, 780];[12, 8, 4];False;;;;;;"4) Hip thrust 50x12; 60x8;780x4";2
+42553;527;46;22/01/2026 11:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Press banca;;;[15];[120];False;;;;;;1) Press banca 15x120;2
+43098;195;145;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Curl femoral;;;[45, 45, 50];[4010, 8, 6];False;[3, 3];;;;;"2) Curl femoral x4010 3” iso; serie 2 45x8; serie 3 50x6";2
+43099;195;146;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Sentadilla búlgara ktb;;;[8, 312];[10, 7];True;;;;;;"2) Sentadilla búlgara 2 ktb 8 x 10 x pierna; serie 2 y 312 x7 x pierna";2
+43176;303;140;29/01/2026 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Zancada estática barra;;;[40, 45, 350];[10, 8, 6];True;;;;;;"2) Zancada estática barra 40x10 x pierna; serie 2 45x8; serie 350 x6";2
+43188;303;152;12/03/2026 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;Aperturas con mc;;;[10, 2312.5];[10, 8];False;;;;;;1) Aperturas con mc kgs 10x10. Serie 2312,5x8;2
+43263;26;126;02/02/2026 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;Jalón al pecho;;;[42.5];[1047];False;;;;;;3) Jalón al pecho 42,5x1047,50x7-52,5x4;2
+43362;43;103;26/01/2026 17:00;Circuito 1: Activación x 3 series;Activación;3.0;;;1;SENTADILLA TRX;;;;[122, 122, 122, 122, 122];False;;;;;;1) 122 SENTADILLA TRX X5;2
+43457;580;75;25/02/2026 19:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Press francés Barra Z;;;[19, 321];[10, 8];False;;;;;;4) Press francés Barra Z kgs 19x10. Serie 2 y 321 x8;2
+43535;57;182;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Jalón al pecho;;;[27.5, 30, 325];[12, 9, 6];False;;;;;;"2) Jalón al pecho 27,5x12; 30x9; 325x6";2
+43563;748;16;26/02/2026 7:30;Circuito 1: Activación x 3 series;Activación;3.0;;;3;Rotación cadera desde gato no pases;;;[901];[8];True;;;;;;3) Rotación cadera desde gato no pases de 901 x8 x lado;2
+43714;530;72;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Dl;;;[35, 375, 40];[12, 8, 4];False;;;;;;"2) Dl 35x12; 375x8; 40x4";2
+43734;235;132;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;3;Press francés;;;;[1410];False;;;;;;3) Press francés x1410;2
+43750;441;114;22/01/2026 11:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;leg extensión bi, exc;;;;[158];True;;;;;;4) leg extensión bi, exc uni x158 x lado;2
+43759;441;123;24/02/2026 11:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Jalón al pechobuscando velocidad en concentrica;;;;[2512];False;;;;;;2) Jalón al pecho x2512 buscando velocidad en concentrica;2
+43833;768;15;04/03/2026 9:00;Circuito 1: Activación x 3 series;Activación;3.0;;;4;mm ski a repartir;;;;[750];False;;;;;;4) 750 mm ski a repartir;2
+43971;566;51;02/02/2026 11:00;Circuito 2 de fuerza x3;Fuerza;;;;2;Flexiones en espladera exc;;;;[103];False;[103];;;;;2. Flexiones en espladera x 103” exc;2
+44149;760;20;09/03/2026 9:30;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;1;DL;;;[40, 55, 700];[12, 8, 4];False;;;;;;"1) DL 40x12; 55x8; 700x4";2
+44881;659;26;26/02/2026 7:00;Circuito 1: Activación x 3 series;Activación;3.0;;;1;retracciones;;;;[112];False;;;;;;112 retracciones;2
+45030;337;189;06/02/2026 8:30;Circuito 3: AFAP 8' Completa tan rápido como puedas;;;;;3;Subidas a 45cm alternas;;;;[200];False;;;;;;2. 200 Subidas a 45cm alternas;2
+46339;418;102;25/02/2026 18:00;FUERZA X 3 SERIES;Fuerza;3.0;;;5;subidas rápidas a cajón de 30cm a repartir;;;;[120];False;;;;;;5. 120 subidas rápidas a cajón de 30 cms a repartir;2
+46560;308;47;06/02/2026 8:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Dl hex;;;[60, 70, 890];[12, 9, 6];False;;;;;;"2) Dl hex 60x12; 70x9;890x6";2
+47103;808;4;09/03/2026 9:00;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Jalón al pecho;;;[19, 326];[10, 6];False;;;;;;"2)Jalón al pecho 19x10; serie 2 y 326x6";2
+47633;170;148;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;4;Press francés Barra Z 11x;;;[11];[1214];False;;;;;;4) Press francés Barra Z kgs 11x1214x8 serie 2 y 3;2
+47890;593;35;Por programar;Circuito 2: Fuerza x 3 series;Fuerza;3.0;;;2;Leg extensión;;;;[2010];True;[3];;;;;2) Leg extensión 3” iso uni x2010 x pierna;2

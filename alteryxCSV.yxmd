@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.2" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">D:\Cuarto\TFG\resultado_limpio.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>65001</CodePage>
+            <Delimeter>;</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>resultado_limpio.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="id" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="customer_id" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="counter" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="hour_date" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="circuito" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="tipo_circuito" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="series_circuito" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="formato_circuito" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="minutos_circuito" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="orden_ejercicio" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="ejercicio_limpio" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="ejercicio_2" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="ejercicio_3" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="ejercicio_4" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="ejercicio_5" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="peso_kg" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="repeticiones" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="por_lado" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="equipamiento" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="tiempo_iso_seg" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="rir" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="intensidad_cardio" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="color_goma" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="cantidad_otra_unidad" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="tipo_otra_unidad" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="modificador_espacial" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="modificador_mecanico" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="ejercicio_bruto" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="utilidad" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="246" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\carca\AppData\Local\Temp\Alteryx\Engine_9712_25e11b479b4e4ba490535ac2a84caf57_\Engine_9712_e253d4a8f0c649708d371691a8d8b8f7~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Perfil</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings>
+        <Position x="234" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Number">True</Value>
+          <Value name="NNumber">50</Value>
+          <Value name="Percent">False</Value>
+          <Value name="NPercent">10</Value>
+          <Value name="Deterministic">False</Value>
+          <Value name="Seed">458676342</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="RandomRecords.yxmc" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="342" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\carca\AppData\Local\Temp\Alteryx\Engine_9712_25e11b479b4e4ba490535ac2a84caf57_\Engine_9712_9a1f09df5c0049a8b1f3131afc34a255~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Perfil</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings>
+        <Position x="150" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"ejercicio_limpio","ejercicio_2","ejercicio_3"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">False</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="390" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>65001</CodePage>
+            <Delimeter>;</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>dataset_ENTRENAMIENTO.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="id" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="customer_id" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="counter" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="hour_date" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tipo_circuito" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="series_circuito" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="formato_circuito" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="minutos_circuito" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="orden_ejercicio" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="ejercicio_limpio" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="ejercicio_2" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="ejercicio_3" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="ejercicio_4" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="ejercicio_5" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="peso_kg" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="repeticiones" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="por_lado" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="equipamiento" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tiempo_iso_seg" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="rir" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="intensidad_cardio" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="color_goma" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="cantidad_otra_unidad" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tipo_otra_unidad" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="modificador_espacial" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="modificador_mecanico" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="utilidad" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="categoria_maestra_1" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_principal_1" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_secundario_1" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tipo_ejercicio_1" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="categoria_maestra_2" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_principal_2" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_secundario_2" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tipo_ejercicio_2" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="categoria_maestra_3" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_principal_3" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_secundario_3" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tipo_ejercicio_3" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="categoria_maestra_4" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_principal_4" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_secundario_4" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tipo_ejercicio_4" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="categoria_maestra_5" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_principal_5" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_secundario_5" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tipo_ejercicio_5" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kcal_s1" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="min_s1" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kmh_s1" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="m_s1" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="w_s1" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kcal_s2" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="min_s2" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kmh_s2" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="m_s2" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="w_s2" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kcal_s3" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="min_s3" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kmh_s3" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="m_s3" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="w_s3" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kcal_s4" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="min_s4" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kmh_s4" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="m_s4" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="w_s4" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kcal_s5" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="min_s5" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kmh_s5" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="m_s5" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="w_s5" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="volumen_total_reps" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="peso_s1" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="reps_s1" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="peso_s2" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="reps_s2" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="peso_s3" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="reps_s3" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="peso_s4" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="reps_s4" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="peso_s5" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="reps_s5" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="peso_temp" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="nivel_fuerza_patron" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="ejercicio_limpio_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="ejercicio_2_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="ejercicio_3_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="ejercicio_4_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="ejercicio_5_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="categoria_maestra_1_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_principal_1_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_secundario_1_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tipo_ejercicio_1_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="categoria_maestra_2_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_principal_2_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_secundario_2_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tipo_ejercicio_2_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="categoria_maestra_3_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_principal_3_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_secundario_3_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tipo_ejercicio_3_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="categoria_maestra_4_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_principal_4_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_secundario_4_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tipo_ejercicio_4_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="categoria_maestra_5_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_principal_5_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="musculo_secundario_5_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tipo_ejercicio_5_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="volumen_total_reps_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="equipamiento_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="color_goma_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="formato_circuito_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tipo_circuito_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="peso_s1_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="peso_s2_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="peso_s3_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="peso_s4_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="peso_s5_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="reps_s1_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="reps_s2_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="reps_s3_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="reps_s4_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="reps_s5_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kcal_s1_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="min_s1_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kmh_s1_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="m_s1_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="w_s1_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kcal_s2_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="min_s2_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kmh_s2_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="m_s2_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="w_s2_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kcal_s3_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="min_s3_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kmh_s3_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="m_s3_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="w_s3_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kcal_s4_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="min_s4_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kmh_s4_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="m_s4_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="w_s4_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kcal_s5_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="min_s5_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="kmh_s5_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="m_s5_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="w_s5_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="tiempo_iso_seg_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+            <Field name="rir_SIGUIENTE" size="254" source="File: D:\Cuarto\TFG\dataset_ENTRENAMIENTO.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="486" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\carca\AppData\Local\Temp\Alteryx\Engine_9712_25e11b479b4e4ba490535ac2a84caf57_\Engine_9712_9bcb6f532d984ac2b2fce94473dde1e1~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Perfil</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="7" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output26" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output26" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="False" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>alteryxCSV</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="0f4564f9-049c-4ff2-802b-88d8b52477b2" />
+      <Telemetry>
+        <PreviousWorkflowId value="ae4681f2-b92d-403f-b084-53a43db4e564" />
+        <OriginWorkflowId value="ae4681f2-b92d-403f-b084-53a43db4e564" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

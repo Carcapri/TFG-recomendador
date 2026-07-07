@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.2" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="6" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">D:\Cuarto\TFG\resultado_limpio.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>65001</CodePage>
+            <Delimeter>;</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>resultado_limpio.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="id" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="customer_id" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="counter" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="hour_date" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="circuito" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="tipo_circuito" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="series_circuito" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="formato_circuito" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="minutos_circuito" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="orden_ejercicio" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="ejercicio_limpio" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="ejercicio_2" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="ejercicio_3" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="peso_kg" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="repeticiones" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="por_lado" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="tiempo_iso_seg" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="rir" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="color_goma" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="cantidad_otra_unidad" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="tipo_otra_unidad" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+            <Field name="ejercicio_bruto" size="254" source="File: D:\Cuarto\TFG\resultado_limpio.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="198" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\carca\AppData\Local\Temp\Alteryx\Engine_8604_def7119e947540f8b8c168701a686cfa_\Engine_8604_dfff7c6beb9e4810b0644c28c4f70759~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Perfil</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings>
+        <Position x="186" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Number">True</Value>
+          <Value name="NNumber">50</Value>
+          <Value name="Percent">False</Value>
+          <Value name="NPercent">10</Value>
+          <Value name="Deterministic">False</Value>
+          <Value name="Seed">458676342</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="RandomRecords.yxmc" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="294" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\carca\AppData\Local\Temp\Alteryx\Engine_8604_def7119e947540f8b8c168701a686cfa_\Engine_8604_ffb9d86bcab94a7fb02c4ae800606303~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Perfil</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings>
+        <Position x="102" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"ejercicio_limpio","ejercicio_2","ejercicio_3"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">False</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="7" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output26" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output26" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>alteryxCSV</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="0f4564f9-049c-4ff2-802b-88d8b52477b2" />
+      <Telemetry>
+        <PreviousWorkflowId value="ae4681f2-b92d-403f-b084-53a43db4e564" />
+        <OriginWorkflowId value="ae4681f2-b92d-403f-b084-53a43db4e564" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

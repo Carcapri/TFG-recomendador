@@ -1,0 +1,16 @@
+*.json
+*.pdf
+*.txt
+*.docx
+*.csv
+__pycache__/
+*.vpp
+
+openrefine-3.10.0/
+
+*.vpp.bak*
+*.vbak
+*.png
+*.xlsx
+*.html
+Motor%20IA%20Gimnasio/
