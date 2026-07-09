@@ -1,0 +1,11 @@
+catboost==1.2.10
+deep_translator==1.11.4
+dtale==3.20.0
+numpy==2.5.1
+pandas==3.0.3
+rapidfuzz==3.14.5
+Requests==2.34.2
+scikit_learn==1.9.0
+thefuzz==0.22.1
+tqdm==4.67.3
+ydata_profiling==4.18.1
